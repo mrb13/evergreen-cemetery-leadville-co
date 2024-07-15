@@ -1,0 +1,1341 @@
+﻿RefID,Surname,Forename,Age,Adult-or-Child,Nationality,Marked,Section,Block,Lot,Grave,DOB,YOB,DOD,YOD
+1,Hughes,Daniel,30,Adult,,No,C,6,1,12,1/1/1858,1858,3/17/1888,1888
+2,Jackson,Kate,70,Adult,,No,C,8,9,,1/1/1882,1882,4/17/1952,1952
+3,Callahan,Ellen,75,Adult,Irish,No,C,1a,2,,,0,8/23/1905,1905
+4,James,Byron,19,Adult,,No,C,1a,2,,1/1/1889,1889,1/25/1908,1908
+5,Harrold,Owen,22,Adult,,No,C,1a,3,,1/1/1865,1865,6/16/1887,1887
+6,McHugh,Charles,28,Adult,,No,C,1a,3,,1/1/1860,1860,1/22/1888,1888
+7,Oakes,James,4d,Child,,No,C,1a,3,,11/11/1889,1889,11/15/1889,1889
+8,Quinn,Mary,50,Adult,,No,C,1a,6,,1/1/1836,1836,4/19/1886,1886
+9,Searl,Hazel,8m,Child,,No,C,1a,6,,,0,4/29/1897,1897
+10,Gibbons,Mrs. George,29,Adult,,No,C,1a,8,,1/1/1860,1860,4/15/1889,1889
+11,Quinn,John,60,Adult,,No,C,1c,1,,1/1/1828,1828,6/12/1888,1888
+12,Passe,Joseph,50,Adult,,No,C,1c,2,,1/1/1862,1862,5/18/1912,1912
+13,Robinson,Mrs. J.B.,26,Adult,,No,C,1c,3,,1/1/1866,1866,10/21/1892,1892
+14,Call ,Margaret,1,Child,,No,C,1c,4,,1/1/1883,1883,1/19/1884,1884
+15,Young,Ella,61,Adult,,No,C,1c,4,,1/1/1855,1855,3/10/1916,1916
+16,Young,Richard,1,Child,,No,C,1c,4,,1/1/1898,1898,7/19/1899,1899
+17,Carrigan,Rose,1m,Child,,No,C,1c,5,,8/1/1890,1890,9/10/1890,1890
+18,Healy,Justin,1m,Child,,No,C,1c,5,,10/1/1887,1887,11/16/1887,1887
+19,Mahoney,William,25,Adult,,No,C,1c,5,,1/1/1863,1863,5/19/1888,1888
+20,Flynn,Thomas,55,Adult,,No,C,1c,6,,1/1/1853,1853,12/1/1908,1908
+21,O'Brien,John C,24,Adult,,No,C,1c,6,,1/1/1863,1863,4/8/1887,1887
+22,Dillon,Phillip,25,Adult,,No,C,1c,7,,1/1/1861,1861,7/23/1886,1886
+23,Vickers,Elizabeth,75,Adult,,No,C,1c,7,,1/1/1838,1838,4/18/1913,1913
+24,Quinn,Joseph,4,Child,,No,C,1c,8,,1/1/1881,1881,10/6/1885,1885
+25,Robins,Mary,47,Adult,,No,C,1c,9,,1/1/1868,1868,7/18/1915,1915
+26,Gillinger,William,41,Adult,,No,C,1c,13,,1/1/1859,1859,7/29/1900,1900
+27,Gilmyer,Jennie,5w,Child,,No,C,1c,13,,11/1/1895,1895,1/2/1896,1896
+28,Osborne,Henry,42,Adult,,No,C,1c,13,,1/1/1850,1850,5/18/1892,1892
+29,Osborne,Laura,5,Adult,,No,C,1c,13,,1/1/1886,1886,11/6/1891,1891
+30,Saunders,Walter,31,Adult,,No,C,1c,15,,1/1/1871,1871,6/1/1902,1902
+31,Fergerson,Catherine,83,Adult,,No,C,1c,16,,1/1/1830,1830,11/22/1913,1913
+32,Fergerson,Charles,37,Adult,,No,C,1c,16,,1/1/1863,1863,12/15/1900,1900
+33,Allen,Robert,11m,Child,,No,C,1c,17,,1/1/1899,1899,4/26/1900,1900
+34,Ford,Sarah,38,Adult,,No,C,1c,17,,1/1/1861,1861,5/23/1899,1899
+35,Rawls,Arsonia,3m,Child,,No,C,1c,17,,1/1/1898,1898,4/23/1898,1898
+36,Ceengan,Katie,3m,Child,,No,C,1c,19,,1/1/1884,1884,7/3/1884,1884
+37,Phelps,Gilbert,86,Adult,,No,C,1c,20,,1/1/1812,1812,1/22/1898,1898
+38,Boyle,James,2,Child,,No,C,2a,1,,1/1/1893,1893,5/21/1895,1895
+39,Boyle,William,11d,Child,,No,C,2a,1,,1/1/1888,1888,3/22/1888,1888
+40,Boyle,William,45,Adult,,No,C,2a,1,,1/1/1855,1855,6/13/1900,1900
+41,Foley,Eugene,21,Adult,,No,C,2a,1,,1/1/1879,1879,3/3/1900,1900
+42,Keating,John,60,Adult,,No,C,2a,1,,1/1/1833,1833,2/3/1893,1893
+43,Keating,Michael,43,Adult,Irish,No,C,2a,1,,1/1/1839,1839,4/1/1882,1882
+44,Mingns,James,1,Child,,No,C,2a,3,,1/1/1886,1886,1/9/1887,1887
+45,Ryan,Infant,Stillborn,Child,,No,C,2a,5,,5/27/1891,1891,5/27/1891,1891
+46,Brown,Patrick,23,Adult,,No,C,2a,6,,1/1/1865,1865,1/4/1888,1888
+47,Noble,Hallie,4m,Child,,No,C,2a,6,,9/1/1885,1885,1/9/1886,1886
+48,Cain,Bermililtia,5m,Child,,No,C,2a,7,,1/1/1885,1885,7/1/1885,1885
+49,Cain,Martin,1,Child,,No,C,2a,7,,1/1/1883,1883,10/10/1884,1884
+50,O'Donnell,Charles,34,Adult,,No,C,2a,7,,1/1/1872,1872,7/11/1906,1906
+51,St. John,William,11m,Child,,No,C,2a,7,,2/1/1901,1901,1/9/1901,1901
+52,Cull,Thomas,4m,Child,,No,C,2a,8,,1/1/1885,1885,6/16/1885,1885
+53,McGinn,Owen,,,,No,C,2a,8,,,0,6/21/1883,1883
+54,Ryan,Minnie,2h,Child,,No,C,2a,8,,2/23/1890,1890,2/23/1890,1890
+55,Kauffman,Mary,7m,Child,,No,C,2c,2,,2/1/1903,1903,9/19/1903,1903
+56,Crowe,Fred,8m,Child,,No,C,3a,1,,1/1/1885,1885,10/21/1885,1885
+57,Crowe ,Frank,1m,Child,,No,C,3a,1,,1/1/1887,1887,2/25/1887,1887
+58,Curtin,Mary,36,Adult,,No,C,3a,1,,1/1/1847,1847,12/20/1883,1883
+59,Pfiefer,Lewis,8m,Child,,No,C,3a,1,,1/1/1884,1884,9/28/1884,1884
+60,Straub,William,12,Child,,No,C,3a,2,,1/1/1888,1888,9/26/1900,1900
+61,Gleason,William,24,Adult,Irish,No,C,3a,3,,1/1/1861,1861,11/26/1885,1885
+62,Stone,Jennie,25,Adult,,No,C,3a,3,,1/1/1858,1858,4/30/1883,1883
+63,Tudor,Amy,32,Adult,,No,C,3a,4,,1/1/1855,1855,8/14/1887,1887
+64,DeLappe,Beulah,1,Child,,No,C,3a,5,,1/1/1887,1887,2/12/1888,1888
+65,Ferry,Infant,8h,Child,,No,C,3a,6,,8/16/1883,1883,8/16/1883,1883
+66,Ferry,Mrs. J.F.,30,Adult,,No,C,3a,6,,1/1/1858,1858,2/6/1888,1888
+67,Ferry ,Infant,Stillborn,Child,,No,C,3a,6,,10/23/1889,1889,10/23/1889,1889
+68,Dougherty,Mary,80,Adult,Irish ,No,C,3a,7,,,0,1/11/1892,1892
+69,Kildea,Infant,Stillborn,Child,,No,C,3a,7,,10/23/1895,1895,10/23/1895,1895
+70,Myers,Catherine,,,,No,C,3a,7,,,,,1900
+71,Mahon,Infant,Stillborn,Child,,No,C,3a,8,,5/14/1882,1882,5/14/1882,1882
+72,Mahon,Infant,Stillborn,Child,,No,C,3a,8,,8/10/1885,1885,8/10/1885,1885
+73,Mahon,Katie,3m,Child,,No,C,3a,8,,12/1/1892,1892,2/3/1893,1893
+74,Mahon ,Maggie,5m,Child,,No,C,3a,8,,10/1/1888,1888,2/26/1889,1889
+75,Ceonase,J.J.,39,Adult,,No,C,3c,1,,1/1/1847,1847,10/11/1886,1886
+76,Luce,Burtice,5,Child,,No,C,3c,2,,1/1/1895,1895,3/21/1900,1900
+77,Page,Infant,3d,Child,,No,C,3c,2,,11/2/1896,1896,11/5/1896,1896
+78,Carlson,Laura,2,Child,,No,C,3c,3,,1/1/1904,1904,1/2/1906,1906
+79,Edwards,Robert,25,Adult,,No,C,3c,4,,1/1/1882,1882,3/31/1907,1907
+80,Edwards,Sarah,81,Adult,,No,C,3c,4,,1/1/1836,1836,2/8/1917,1917
+81,Kyle,Lillian,4,Child,,No,C,3c,5,,1/1/1902,1902,4/10/1906,1906
+82,Skyles,Lillian,4,Child,,No,C,3c,5,,1/1/1902,1902,4/10/1906,1906
+83,Desmond,William,30,Adult,,No,C,3c,7,,1/1/1876,1876,5/16/1906,1906
+84,Schelin,Magne,37,Adult,,No,C,3c,7,,1/1/1870,1870,4/28/1907,1907
+85,Bollman,J,62,Adult,,No,C,3c,8,,1/1/1860,1860,4/15/1922,1922
+86,Strapper,Adolph,88,Adult,,No,C,3c,9,,1/1/1820,1820,9/30/1908,1908
+87,Weatherbee,Emma,37,Adult,,No,C,3c,15,,1/1/1851,1851,6/1/1888,1888
+88,Dixon,Bridget,70,Adult,,No,C,3c,16,,1/1/1840,1840,2/17/1910,1910
+89,Norris,Michael,40,Adult,Irish,No,C,3c,16,,1/1/1847,1847,8/14/1887,1887
+90,Kelm,Infant,Stillborn,Child,,No,C,3c,17,,10/16/1899,1899,10/16/1899,1899
+91,Kelm,Infant,Stillborn,Child,,No,C,3c,17,,7/4/1903,1903,7/4/1903,1903
+92,Kelm,Infant,Stillborn,Child,,No,C,3c,17,,3/12/1912,1912,3/12/1912,1912
+93,Kelm,Agnes,1w,Child,,No,C,3c,17,,9/1/1914,1914,9/1/1914,1914
+94,McIver,Infant,Stillborn,Child,,No,C,3c,18,,,,,1900
+95,Wolfrham,Dolly,48,Adult,,No,C,3c,18,,1/1/1881,1881,11/7/1929,1929
+96,Luby,Infant,Stillborn,Child,,No,C,3c,19,,6/5/1896,1896,6/5/1896,1896
+97,Luby,Jessie,39,Adult,,No,C,3c,19,,1/1/1895,1895,5/6/1934,1934
+98,LaFickett,Numa,39,Adult,,No,C,3c,20,,1/1/1866,1866,7/19/1905,1905
+99,McKinnon,,47,Adult,,No,C,3c,20,,1/1/1858,1858,7/1/1905,1905
+100,Wegschneider,George,64,Adult,,No,C,3c,20,,1/1/1844,1844,8/23/1908,1908
+101,Chamberlain,Del.,61,Adult,,No,C,3c,21,,1/1/1845,1845,3/4/1906,1906
+102,MacDonald,Annie,56,Adult,,No,C,3c,21,,1/1/1847,1847,12/27/1903,1903
+103,Hail,Warren,8m,Child,,No,C,3c,22,,1/1/1910,1910,9/13/1910,1910
+104,Burns,Fred ,2,Child,,No,C,3c,23,,1/1/1904,1904,11/24/1906,1906
+105,Burns,Michael,82,Adult,,No,C,3c,23,,1/1/1846,1846,5/18/1928,1928
+106,Burns ,Grace,40,Adult,,No,C,3c,23,,1/1/1875,1875,11/6/1915,1915
+107,Armstrong,Eliza,1,Child,,No,C,3c,24,,1/1/1910,1910,2/13/1911,1911
+108,Armstrong,Theta,4m,Child,,No,C,3c,24,,1/1/1905,1905,1/10/1906,1906
+109,McGlinn,John,26,Adult,,No,C,4c,1,,1/1/1872,1872,10/6/1898,1898
+110,McGlinn,Peter,6m,Child,,No,C,4c,1,,7/1/1889,1889,1/14/1890,1890
+111,McGlinn,Thomas,,,,No,C,4c,1,,,0,3/4/1905,1905
+112,McGlynn,Elisabeth,3w,Child,,No,C,4c,1,,4/1/1883,1883,5/17/1883,1883
+113,McGlynn,Ellen,4m,Child,,No,C,4c,1,,1/20/1886,1886,3/23/1887,1887
+114,McGlynn,Katie,1,Child,,No,C,4c,1,,6/24/1884,1884,10/17/1885,1885
+115,McBreene,Ellen,1,Child,,No,C,4c,2,,7/19/1884,1884,7/12/1885,1885
+116,McBreene,Willie,7m,Child,,No,C,4c,2,,1/5/1887,1887,8/16/1887,1887
+117,Gallagher,Willie,2,Child,,No,C,4c,4,,1/1/1885,1885,5/6/1887,1887
+118,Hartnett,Infant,Stillborn,Child,,No,C,4c,8,,1/16/1886,1886,1/16/1886,1886
+119,Hartnett,Ed,3d,Child,,No,C,4c,8,,6/1/1887,1887,6/4/1887,1887
+120,Gillman,Mrs. B.A.,46,Adult,,No,C,4c,10,,1/1/1841,1841,11/6/1887,1887
+121,Power,Infant,Stillborn,Child,,No,C,4c,11,,9/1/1888,1888,9/1/1888,1888
+122,Henderson,Infant,Stillborn,Child,,No,C,4c,12,,8/19/1907,1907,8/19/1907,1907
+123,Henderson,Louisa,38,Adult,,No,C,4c,12,,1/1/1869,1869,5/28/1907,1907
+124,Herzberger,Maggie,23,Adult,,No,C,4c,12,,1/1/1861,1861,3/21/1884,1884
+125,Tenney,Charles,28,Adult,American,No,C,4c,12,,1/1/1858,1858,1/20/1886,1886
+126,Tenney,William,4m,Child,,No,C,4c,12,,5/1/1884,1884,9/17/1884,1884
+127,Wolf,Frank,6m,Child,,No,C,4c,12,,12/1/1883,1883,6/8/1884,1884
+128,Sullivan,Dennis,1,Child,,No,C,4c,13,,1/1/1880,1880,7/9/1881,1881
+129,Sullivan,Dennis,36,Adult,,No,C,4c,13,,1/1/1851,1851,11/1/1887,1887
+130,Sullivan,Francis,4,Child,,No,C,4c,13,,1/1/1877,1877,2/14/1881,1881
+131,Sullivan,Mary,2,Child,,No,C,4c,13,,1/1/1884,1884,2/20/1886,1886
+132,Sullivan,Mary,,,,No,C,4c,13,,,0,11/1/1887,1887
+133,Sullivan,Michael,2,Child,,No,C,4c,13,,1/1/1888,1888,12/4/1890,1890
+134,Sullivan,Mike,40,Adult,,No,C,4c,13,,1/1/1847,1847,12/18/1887,1887
+135,Sullivan,William,9,Child,,No,C,4c,13,,1/1/1882,1882,8/13/1891,1891
+136,Kieley,Bridget,3,Child,,No,C,4c,14,,8/20/1883,1883,5/12/1887,1887
+137,Kiely,Infant,Stillborn,Child,,No,C,4c,14,,7/14/1882,1882,7/14/1882,1882
+138,Riley,Joseph,15d,Child,,No,C,4c,14,,3/12/1891,1891,3/27/1891,1891
+139,Strawhecker,Charles,42,Adult,,No,C,4c,15,,1/1/1850,1850,10/30/1892,1892
+140,McDonald,Charles,2d,Child,,No,C,4c,16,,9/30/1903,1903,10/2/1903,1903
+141,Brady,William,9m,Child,,No,C,4c,17,,1/1/1888,1886,2/16/1887,1887
+142,Little,Frank,3,Child,,No,C,4c,17,,1/1/1884,1884,8/1/1887,1887
+143,Little,Willie,1,Child,,No,C,4c,17,,1/1/1886,1886,8/1/1887,1887
+144,McDonald,E.A.,6d,Child,,No,C,4c,17,,9/5/1887,1887,9/11/1887,1887
+145,McDonald,Mary,6m,Child,,No,C,4c,17,,1/1/1890,1890,12/3/1891,1891
+146,Carlin,Peter,65,Adult,,No,C,4c,18,,1/1/1816,1816,10/12/1881,1881
+147,Maleoney,John,24,Adult,,No,C,4c,18,,1/1/1859,1859,5/27/1883,1883
+148,Bennett,Richard,26,Adult,,No,C,4c,19,,1/1/1855,1855,10/10/1881,1881
+149,Carroll,Edward,36,Adult,,No,C,4c,19,,1/1/1847,1847,7/16/1883,1883
+150,Dunn,Thomas,,,,No,C,4c,19,,,0,5/25/1887,1887
+151,McNichol,P,82,Adult,,No,C,4c,19,,1/1/1855,1855,1/25/1937,1937
+152,Watson,Charlotte,35,Adult,,No,C,4c,19,,1/1/1847,1847,2/7/1882,1882
+153,Watson,William,2w,Child,,No,C,4c,19,,2/1/1882,1882,2/17/1882,1882
+154,Creighen,David,3m,Child,,No,C,4c,20,,1/1/1886,1886,8/25/1886,1886
+155,Creighen,Francis,6m,Child,,No,C,4c,20,,1/1/1884,1884,6/4/1884,1884
+156,Creighen,James,9,Child,,No,C,4c,20,,1/1/1873,1873,6/14/1882,1882
+157,Curry,Mattie,6m,Child,,No,C,4c,20,,1/1/1882,1882,8/11/1882,1882
+158,Curry,Thomas,10,Child,,No,C,4c,20,,1/1/1872,1872,5/7/1882,1882
+159,Graham,John T.,1,Child,,No,C,4c,20,,1/1/1886,1886,4/10/1887,1887
+160,Lane,I.V.,8m,Child,,No,C,4c,20,,11/1/1881,1881,6/1/1882,1882
+161,Lane,S.M.,4m,Child,,No,C,4c,20,,7/1/1880,1880,10/2/1880,1880
+162,Diviny,Kate,18,Adult,,No,C,4c,22,,1/1/1880,1880,6/25/1898,1898
+163,Sullivan,Infant,Stillborn,Child,,No,C,4c,22,,9/9/1888,1888,9/9/1888,1888
+164,Bannister,Charles,5d,Child,,No,C,4c,23,,1/1/1885,1885,9/24/1885,1885
+165,Cuny,Mattie,23,Adult,,No,C,4c,23,,1/1/1859,1859,3/12/1882,1882
+166,Eck,Infant,Stillborn,Child,,No,C,4c,23,,1/1/1882,1882,5/21/1882,1882
+167,Eck,Ruth,25,Adult,,No,C,4c,23,,1/1/1857,1857,5/27/1882,1882
+168,Sullivan,Julia,34,Adult,,No,C,4c,23,,1/1/1848,1848,7/16/1882,1882
+169,Sullivan,Mary L,6w,Child,,No,C,4c,23,,6/1/1882,1882,8/15/1882,1882
+170,Fitzgerald,Edward,24,Adult,,No,C,4c,25,,1/1/1859,1859,3/10/1883,1883
+171,Fitzgerald,M.,46,Adult,,No,C,4c,25,,1/1/1839,1839,12/27/1885,1885
+172,Gaskin,Mary,44,Adult,,No,C,4c,25,,1/1/1848,1848,10/20/1892,1892
+173,Granahan,John,34,Adult,,No,C,4c,25,,1/1/1851,1851,9/28/1885,1885
+174,Murphy,James,34,Adult,,No,C,4c,25,,1/1/1858,1858,8/8/1892,1892
+175,Shea,Mamie,11,Child,,No,C,4c,26,,1/1/1871,1871,10/15/1882,1882
+176,Arnold,Charles,84,Adult,,No,C,4c,27,,1/1/1817,1817,10/12/1901,1901
+177,Connors,Infant,Stillborn,Child,,No,C,4c,28,,1/1/1904,1904,10/26/1904,1904
+178,McDonald,James,48,Adult,Irish,No,C,4c,28,,1/1/1834,1834,12/26/1882,1882
+179,Loughran,Michael,47,Adult,,No,C,4c,30,,1/1/1836,1836,5/5/1883,1883
+180,McDonald,A.A.,4m,Child,,No,C,4c,30,,1/1/1884,1884,5/17/1884,1884
+181,Casey,Margaret,1,Child,,No,C,4c,31,,1/1/1887,1887,4/14/1888,1888
+182,Galvin,John,22,Adult,,No,C,4c,32,,1/1/1865,1865,7/28/1887,1887
+183,McCraner,John,28,Child,,No,C,4c,32,,1/1/1855,1855,8/9/1883,1883
+184,Breene,Infant,2d,Child,,No,C,4c,35,,1/1/1884,1884,3/21/1884,1884
+185,Breene,Parnell,7m,Child,,No,C,4c,35,,1/1/1886,1886,4/26/1886,1886
+186,Cullen,John,3,Child,,No,C,4c,35,,1/1/1884,1884,4/29/1887,1887
+187,Cullen,William,2m,Child,,No,C,4c,35,,1/1/1885,1885,2/16/1886,1886
+188,Snell,John,66,Adult,,No,C,4c,37,,1/1/1846,1846,5/8/1912,1912
+189,Shea,Daniel,11m,Child,,No,C,5c,2,,12/1/1879,1879,1/23/1880,1880
+190,Shea,Eva,5m,Child,,No,C,5c,2,,8/1/1892,1892,1/18/1893,1893
+191,Shea,Joseph,11d,Child,,No,C,5c,2,,6/16/1891,1891,6/27/1891,1891
+192,Shea,Patrick,1,Child,,No,C,5c,2,,1/1/1886,1886,5/2/1887,1887
+193,Pugh,Osmer,2,Child,,No,C,5c,4,,1/1/1905,1905,2/20/1907,1907
+194,Smith,Anthony,10d,Child,,No,C,5c,4,,1/28/1887,1887,2/6/1887,1887
+195,Smith,Katie,3,Child,,No,C,5c,4,,1/1/1884,1884,5/14/1887,1887
+196,Barry,Edward,53,Adult,,No,C,5c,6,,1/1/1852,1852,10/23/1905,1905
+197,Barry,James,6m,Child,,No,C,5c,6,,1/1/1883,1883,3/13/1884,1884
+198,Barry,Lizzie,2,Child,,No,C,5c,6,,1/1/1884,1884,12/30/1886,1886
+199,Barry,Mrs. M.,37,Adult,,No,C,5c,6,,1/1/1837,1837,8/17/1884,1884
+200,Barry,Martha,1m,Child,,No,C,5c,6,,1/1/1886,1886,11/4/1886,1886
+201,Barry,William,19,Adult,,No,C,5c,6,,1/1/1865,1865,6/3/1884,1884
+202,Barry,William,3m,Child,,No,C,5c,6,,1/1/1900,1900,10/22/1900,1900
+203,Buzie,Millie,23,Adult,,No,C,5c,6,,1/1/1868,1868,1/18/1891,1891
+204,Harrington,Infant,Stillborn,Child,,No,C,5c,6,,7/5/1887,1887,7/5/1887,1887
+205,Harrington,Agnes,7m,Child,,No,C,5c,6,,2/1/1883,1883,9/9/1883,1883
+206,Harrington,Isabela,3,Child,,No,C,5c,6,,1/1/1884,1884,5/7/1887,1887
+207,Harrington,Nellie,2m,Child,,No,C,5c,6,,8/1/1889,1889,10/26/1889,1889
+208,Conerty,John,1,Child,,No,C,5c,7,,1/1/1886,1886,8/15/1887,1887
+209,Dwyer,John M.,4m,Child,,No,C,5c,7,,10/16/1887,1887,2/26/1888,1888
+210,Dwyer,P.H.,39,Adult,,No,C,5c,7,,1/1/1856,1856,3/22/1895,1895
+211,Dwyer,Thomas,5m,Child,,No,C,5c,7,,1/1/1886,1886,3/31/1887,1887
+212,Edgren,Charles,43,Adult,,No,C,5c,7,,1/1/1868,1868,8/20/1911,1911
+213,Pavid,Caroline,39,Adult,,No,C,5c,8,,1/1/1858,1858,11/8/1897,1897
+214,Smith,John,65,Adult,,No,C,5c,8,,1/1/1831,1831,11/24/1896,1896
+215,Byrne,Mary,42,Adult,,No,C,5c,9,,1/1/1844,1844,12/19/1886,1886
+216,Christian,Infant,Stillborn,Child,,No,C,5c,11,,1/1/1888,1888,10/2/1888,1888
+217,Rennley,George,9m,Child,,No,C,5c,11,,10/1/1888,1888,6/26/1888,1888
+218,Rumbley,Robert,4m,Child,,No,C,5c,11,,6/1/1883,1883,10/28/1883,1883
+219,Sullivan,Cornelius,1,Child,,No,C,5c,11,,1/1/1882,1882,2/18/1883,1883
+220,Sullivan,James,2,Child,,No,C,5c,11,,1/1/1885,1885,3/15/1887,1887
+221,Sullivan,Luther,24,Adult,,No,C,5c,11,,1/1/1857,1857,9/30/1881,1881
+222,Sullivan,Michael,2,Child,,No,C,5c,11,,1/1/1879,1879,8/9/1881,1881
+223,Connors,Martin,52,Adult,,No,C,5c,13,,1/1/1842,1842,9/5/1894,1894
+224,Calahan,Peter,,,,No,C,5c,14,,,0,6/25/1880,1880
+225,Foley,Thomas,2w,Child,,No,C,5c,14,,3/1/1887,1887,4/5/1887,1887
+226,Miners,Edward,24,Adult,,No,C,6c,2,,1/1/1885,1885,7/6/1909,1909
+227,Forsyth,Thelma,5,Child,,No,C,6c,3,,1/1/1904,1904,4/7/1909,1909
+228,Grace,Benjamin,75,Adult,,No,C,6c,3,,1/1/1835,1835,6/7/1910,1910
+229,Watkins,William,4m,Child,,No,C,6c,3,,6/1/1910,1910,10/3/1910,1910
+230,Gustafson,Helmar,17,Child,,No,C,6c,5,,1/1/1891,1891,6/22/1908,1908
+231,Watkins,Christina,13,Child,,No,C,6c,6,,1/1/1895,1895,2/27/1908,1908
+232,Watkins,Harry,20,Adult,,No,C,6c,6,,1/1/1894,1894,2/5/1914,1914
+233,Watkins,Jane,46,Adult,,No,C,6c,6,,1/1/1870,1870,8/22/1916,1916
+234,Hagen,John,63,Adult,,No,C,6c,7,,1/1/1843,1843,6/23/1906,1906
+235,Mahoney,Frank,6w,Child,,No,C,6c,8,,6/1/1883,1883,8/11/1883,1883
+236,Sullivan,Clarence,2w,Child,,No,C,6c,9,,4/1/1892,1892,5/6/1892,1892
+237,Sullivan,Rosa,2w,Child,,No,C,6c,9,,4/1/1892,1892,5/8/1892,1892
+238,Burk ,Harry,3,Child,,No,C,6c,10,,1/1/1884,1884,4/14/1887,1887
+239,Burk ,Harry,20,Adult,,No,C,6c,10,,1/1/1867,1867,11/27/1887,1887
+240,Burk ,John,6,Child,,No,C,6c,10,,1/1/1882,1882,11/4/1888,1888
+241,Burk ,Thomas,2,Child,,No,C,6c,10,,1/1/1885,1885,7/30/1887,1887
+242,Burk ,Walter,7,Child,,No,C,6c,10,,1/1/1881,1881,10/8/1888,1888
+243,Dahlquest,William,4,Child,,No,C,6c,12,,1/1/1901,1901,1/24/1905,1905
+244,Horrigan,Mary,26,Adult,,No,C,6c,12,,1/1/1872,1872,10/21/1898,1898
+245,Rood,Elizabeth,40,Adult,,No,C,6c,12,,1/1/1866,1866,6/13/1906,1906
+246,Robinson,Annabel,45,Adult,,No,C,6c,13,,1/1/1867,1867,6/23/1912,1912
+247,Shimmin,Clara,35,Adult,,No,C,OA,1,,1/1/1876,1876,10/27/1911,1911
+248,Ridgley,Warren,,,,No,C,OA,2,,,0,2/1/1916,1916
+249,Dunatrolas,M. ,32,Adult,,No,C,OA,3,,1/1/1812,1812,12/14/1844,1844
+250,Remine,Warren,49,Adult,,No,C,OA,7,,1/1/1912,1912,11/11/1961,1961
+251,Nelin,Carl,5m,Child,,No,C,OA,9,,1/1/1920,1920,6/1/1920,1920
+252,Nelin,Leondard,48,Adult,,No,C,OA,9,,1/1/1875,1875,4/1/1923,1923
+253,Lay,Edna,32,Adult,,No,C,OB,1,,1/1/1884,1884,9/11/1916,1916
+254,White,Frank,32,Adult,,No,C,OB,1,,1/1/1884,1884,1/14/1916,1916
+255,Dodge,Stephen,64,Adult,,No,C,OB,2,,1/1/1852,1852,4/6/1916,1916
+256,Remine,Steven,24,Adult,,No,C,OB,2,,1/1/1909,1909,12/10/1933,1933
+257,Shannahan,Infant,Stillborn,Child,,No,C,OB,2,,7/31/1944,1944,7/31/1944,1944
+258,Sauer,Werner,62,Adult,,No,C,OB,5,,1/1/1855,1855,3/28/1917,1917
+259,Mitchell,Marie,23,Adult,,No,C,OB,6,,1/1/1895,1895,11/9/1918,1918
+260,Luce,Dexter,76,Adult,,No,C,OB,11,,1/1/1854,1854,10/16/1930,1930
+261,Huston,Mary,47,Adult,,No,C,OB,12,,1/1/1870,1870,6/9/1917,1917
+262,Oling,Carl,42,Adult,,No,C,OB,12,,1/1/1877,1877,3/9/1919,1919
+263,Oling,Victor,23,Adult,,No,C,OB,12,,1/1/1895,1895,11/30/1918,1918
+264,Hurm,Lavina,56,Adult,,No,C,OB,13,,1/1/1861,1861,3/14/1917,1917
+265,Garrett,Infant,5d,Child,,No,C,OB,14,,2/18/1917,1917,2/23/1917,1917
+266,Bolna,Anne,51,Adult,,No,C,OD,2,,1/1/1867,1867,1/6/1918,1918
+267,Demetralos,Mike,32,Adult,,No,C,QA,3,,1/1/1890,1890,12/14/1922,1922
+268,Dencher,Infant,1d,Child,,No,CF,4,1,2,12/27/1881,1881,12/28/1881,1881
+269,Cunniff,Edward,7m ,Child,,No,CF,4,1,3,1/1/1881,1881,3/26/1882,1882
+270,Sheehan,Thomas,7m,Child,,No,CF,4,1,4,1/1/1881,1881,4/5/1882,1882
+271,Buckley,Johanna,3y,Child,,No,CF,4,1,5,1/1/1879,1879,6/1/1882,1882
+272,Sheehan,Daniel,8m,Child,,No,CF,4,1,7,1/1/1882,1882,8/11/1882,1882
+273,Vanrick,Annie,6y,Child,,No,CF,4,1,8,1/1/1881,1881,8/10/1887,1887
+274,Oleson,Elmer ,3w,Child,,No,CF,4,1,9,1/1/1894,1894,11/3/1894,1894
+275,Oleson,G. O.,1y,Child,,No,CF,4,1,9,1/1/1888,1888,2/25/1889,1889
+276,Veo,Annie,6y,Child,,No,CF,4,1,10,1/1/1882,1882,1/16/1888,1888
+277,Veo,Corrine,24y,Adult,,No,CF,4,1,10,1/1/1856,1856,3/15/1880,1880
+278,Veo,Courine,52y,Adult,,No,CF,4,1,10,1/1/1846,1846,8/8/1898,1898
+279,Veo,Delia,1y,Child,,No,CF,4,1,10,1/1/1882,1882,1/18/1883,1883
+280,Currie,Infant,7m ,Child,,No,CF,4,1,11,1/1/1882,1882,2/1/1883,1883
+281,Duley,A. J.,,,,No,CF,4,1,11,,0,5/25/1897,1897
+282,Dooley,M,7y,Child,,No,CF,4,1,12,1/1/1880,1880,10/5/1887,1887
+283,McAleenan,John,50y,Adult,,No,CF,4,1,12,1/1/1847,1847,7/29/1897,1897
+284,Dougherty,Rosanna,2d,Child,,No,CF,4,1,13,7/12/1883,1883,7/14/1883,1883
+285,McGurk,Essie,1y,Child,,No,CF,4,1,14,1/1/1882,1882,10/2/1883,1883
+286,Unknown,Child,3y,Child,,No,CF,4,1,14,1/1/1887,1887,7/26/1890,1890
+287,McNelis,Katie,1y,Child,,No,CF,4,1,15,2/24/1886,1886,8/2/1887,1887
+288,Eck,Infant,Stillborn,Child,,No,CF,4,1,16,1/23/1883,1883,1/23/1883,1883
+289,Leonard,Katie,4y,Child,,No,CF,4,1,16,1/1/1878,1878,7/16/1882,1882
+290,Sullivan,Infant,Stillborn,Child,,No,CF,4,1,16,5/10/1883,1883,5/10/1883,1883
+291,Walsk,Thomas,1y,Child,,No,CF,4,1,16,1/1/1882,1882,6/12/1883,1883
+292,Fawan,Michle,3d,Child,,No,CF,4,2,2,12/1/1881,1881,12/31/1881,1881
+293,Carroll,Edward,3w,Child,,No,CF,4,2,3,2/24/1882,1882,3/23/1882,1882
+294,Green,Margaret,3m,Child,,No,CF,4,2,4,1/1/1885,1885,8/29/1885,1885
+295,Murphy,Johnnie,10m,Child,,No,CF,4,2,4,1/1/1881,1881,1/12/1882,1882
+296,Fenning,Infant,1d,Child,,No,CF,4,2,5,6/12/1882,1882,6/13/1882,1882
+297,Reiter,William,3w,Child,,No,CF,4,2,6,1/1/1882,1882,7/19/1882,1882
+298,Savardo,Rose,1y,Child,,No,CF,4,2,7,1/1/1881,1881,8/13/1882,1882
+299,Mahoney,Infant,Stillborn,Child,,No,CF,4,2,8,10/18/1882,1882,10/18/1882,1882
+300,DeLavillette,Fred,1y,Child,,No,CF,4,2,9,1/1/1882,1882,1/11/1883,1883
+301,Brandon,Ruby,2m,Child,,No,CF,4,2,11,1/1/1883,1883,3/10/1883,1883
+302,Dougherty,Catherine,2w,Child,,No,CF,4,2,11,1/13/1883,1883,2/13/1883,1883
+303,McCarthy ,Infant,Stillborn,Child,,No,CF,4,2,11,3/23/1883,1883,3/23/1883,1883
+304,Hargan,Maggie,12y,Child,,No,CF,4,2,13,1/1/1871,1871,9/3/1883,1883
+305,Fitzgerald,Joseph,1y,Child,,No,CF,4,2,14,1/1/1882,1882,10/25/1883,1883
+306,Shanahan,Infant,Stillborn,Child,,No,CF,4,2,15,3/23/1884,1884,3/23/1884,1884
+307,Shanahan,Thomas ,7w,Child,,No,CF,4,2,15,4/29/1883,1883,6/17/1883,1883
+308,Slaven,Maggie,,,,No,CF,4,2,15,,0,2/22/1905,1905
+309,Duteil,Millie,4m,Child,,No,CF,4,2,16,5/1/1883,1883,9/4/1883,1883
+310,Welsh ,Peter,5m,Child,,No,CF,4,2,16,1/1/1883,1883,3/31/1883,1883
+311,Welsh ,Thomas,6y,Child,,No,CF,4,2,17,1/1/1878,1878,9/3/1884,1884
+312,Cutshell,E. A.,2y,Child,,No,CF,4,3,1,1/1/1886,1886,10/4/1888,1888
+313,Gallagher,Infant,Stillborn,Child,,No,CF,4,3,1,11/21/1881,1881,11/21/1881,1881
+314,Staton,Edith,,,,No,CF,4,3,1,,0,4/16/1880,1880
+315,Healey,Richard,11d,Child,,No,CF,4,3,2,3/9/1882,1882,3/20/1882,1882
+316,McDonnell,Infant,Stillborn,Child,,No,CF,4,3,2,1/5/1882,1882,1/5/1882,1882
+317,Staton,Mary,,,,No,CF,4,3,2,,0,4/16/1880,1880
+318,Healey,Infant,Stillborn,Child,,No,CF,4,3,3,3/9/1882,1882,3/9/1882,1882
+319,McCarthy ,John,3m,Child,,No,CF,4,3,4,1/1/1882,1882,5/15/1882,1882
+320,Murphy,John,2y,Child,,No,CF,4,3,6,1/1/1884,1884,8/22/1886,1886
+321,McAnally,Anna,7m,Child,,No,CF,4,3,7,1/1/1882,1882,8/7/1882,1882
+322,Murphy,Hannah,4y,Child,,No,CF,4,3,8,1/1/1878,1878,10/17/1882,1882
+323,Doyle,Margaret,2m,Child,,No,CF,4,3,10,12/1/1882,1882,2/14/1883,1883
+324,Neelson,George,3w,Child,,No,CF,4,3,10,1/1/1882,1882,11/12/1882,1882
+325,Hughes,Margaret,1w,Child,,No,CF,4,3,12,4/21/1883,1883,4/27/1883,1883
+326,Carson,Jane,2m,Child,,No,CF,4,3,14,9/1/1883,1883,11/9/1883,1883
+327,Goddin,William,8d,Child,,No,CF,4,3,14,8/1/1883,1883,8/23/1883,1883
+328,Slaven,Martin,2y,Child,,No,CF,4,3,14,1/1/1881,1881,7/5/1883,1883
+329,Motley,William Samuel,1y,Child,,No,CF,4,3,15,4/27/1882,1882,8/23/1883,1883
+330,Acheson,Lena,3m,Child,,No,CF,4,3,16,1/1/1883,1883,5/28/1883,1883
+331,Grennin,Infant,Stillborn,Child,,No,CF,4,3,16,5/18/1889,1889,5/18/1889,1889
+332,Slaven,Infant,Stillborn,Child,,No,CF,4,3,16,5/10/1891,1891,5/10/1891,1891
+333,Whetz,Lawrence,1y,Child,,No,CF,4,3,16,1/1/1881,1881,6/23/1882,1882
+334,Langstaff,Infant,Stillborn,Child,,No,CF,4,4,1,11/15/1881,1881,11/15/1881,1881
+335,Tairville,Ernest,2y,Child,,No,CF,4,4,1,1/1/1879,1879,12/5/1881,1881
+336,Walter,Anton,1y,Child,,No,CF,4,4,1,1/1/1880,1880,11/15/1881,1881
+337,Doonan,John,,,,No,CF,4,4,2,,0,6/24/1880,1880
+338,Carty,James,2m,Child,,No,CF,4,4,3,1/1/1882,1882,3/5/1882,1882
+339,Conley,Jessie,3y,Child,,No,CF,4,4,4,1/1/1884,1884,10/27/1887,1887
+340,McDonnell,August,3m,Child,,No,CF,4,4,4,1/1/1882,1882,5/17/1882,1882
+341,Capman,Infant ,Stillborn,Child,,No,CF,4,4,5,12/14/1889,1889,12/14/1889,1889
+342,Chapman,Infant,Stillborn,Child,,No,CF,4,4,5,12/14/1889,1889,12/14/1889,1889
+343,Paul,John,10m,Child,,No,CF,4,4,5,1/1/1881,1881,6/11/1882,1882
+344,Lawler,Mabel,16d,Child,,No,CF,4,4,7,7/18/1882,1882,8/4/1882,1882
+345,Sullivan,Infant,Stillborn,Child,,No,CF,4,4,8,10/11/1882,1882,10/11/1882,1882
+346,Conroy,Edith,15m,Child,,No,CF,4,4,9,1/1/1881,1881,10/26/1882,1882
+347,Beauman,Elsie,3y,Child,,No,CF,4,4,11,1/1/1880,1880,2/7/1883,1883
+348,Briner,Lewis,,,,No,CF,4,4,11,,0,6/21/1880,1880
+349,Brookart,Charles,2m,Child,,No,CF,4,4,13,1/1/1883,1883,7/13/1883,1883
+350,Slaven,Margaret,3y,Child,,No,CF,4,4,14,1/1/1885,1885,2/22/1888,1888
+351,Slavin,Rose,2m,Child,,No,CF,4,4,14,6/29/1883,1883,9/7/1883,1883
+352,Sullivan,Mike,3w,Child,,No,CF,4,4,14,1/1/1888,1888,2/6/1888,1888
+353,Harrington,Infant,Stillborn,Child,,No,CF,4,4,15,11/27/1883,1883,11/27/1883,1883
+354,Harrington,Ellen,2y,Child,,No,CF,4,4,15,1/1/1882,1882,2/25/1884,1884
+355,Slaven,Jane,1y,Child,,No,CF,4,4,15,1/1/1887,1887,2/20/1888,1888
+356,Slaven,Mary,1y,Child,,No,CF,4,4,15,1/1/1886,1886,1/13/1887,1887
+357,Kelley,Infant,Stillborn,Child,,No,CF,4,4,16,6/5/1888,1888,6/5/1888,1888
+358,Riley,William,6y,Child,,No,CF,4,4,16,1/1/1877,1877,6/3/1883,1883
+359,Slavin,Sophia,2m,Child,,No,CF,4,4,16,7/1/1883,1883,9/20/1883,1883
+360,Jennings,Mary Eva,3m,Child,,No,CF,4,5,2,10/2/1881,1881,1/18/1882,1882
+361,Keating,Mary,12y,Child,,No,CF,4,5,3,1/1/1870,1870,1/31/1882,1882
+362,Tobin,James,5m,Child,,No,CF,4,5,6,1/21/1882,1882,6/20/1882,1882
+363,Diamond ,Thomas,,,,No,CF,4,5,7,,0,3/28/1880,1880
+364,Elliott,Infant,Stillborn,Child,,No,CF,4,5,7,6/24/1882,1882,6/14/1882,1882
+365,Molia,Katie,5m,Child,,No,CF,4,5,8,1/1/1882,1882,8/24/1882,1882
+366,O'Malia,Anna,1w,Child,,No,CF,4,5,8,1/1/1883,1883,6/10/1883,1883
+367,Donney,Infant,2w,Child,,No,CF,4,5,9,9/1/1882,1882,10/8/1882,1882
+368,Shea,John,3m,Child,,No,CF,4,5,11,1/1/1882,1882,1/18/1883,1883
+369,Sullivan,Infant,Stillborn,Child,,No,CF,4,5,12,7/24/1887,1887,7/24/1887,1887
+370,Sullivan,Donald,10w,Child,,No,CF,4,5,12,1/1/1883,1883,6/29/1883,1883
+371,Allen,Infant ,Stillborn,Child,,No,CF,4,5,13,6/19/1883,1883,6/19/1883,1883
+372,Ryan,Aggie,3y,Child,,No,CF,4,5,13,1/1/1880,1880,4/23/1883,1883
+373,Curcio,Frank,7m ,Child,,No,CF,4,5,14,1/1/1883,1883,8/30/1883,1883
+374,Fitzgerald,Infant,Stillborn,Child,,No,CF,4,5,14,7/28/1883,1883,7/28/1883,1883
+375,Fitzgerald,Infant,Stillborn,Child,,No,CF,4,5,15,12/8/1883,1883,12/8/1883,1883
+376,Sullivan,John D.,7w,Child,,No,CF,4,5,16,1/1/1883,1883,6/7/1883,1883
+377,Valita,Mary,9m,Child,,No,CF,4,5,17,1/1/1883,1883,10/17/1883,1883
+378,Toughill,May,7w,Child,,No,CF,4,6,2,1/1/1882,1882,2/27/1882,1882
+379,Devine,Infant,Stillborn,Child,,No,CF,4,6,3,5/2/1882,1882,5/2/1882,1882
+380,Martin,Mary,2w,Child,,No,CF,4,6,4,1/1/1882,1882,4/13/1882,1882
+381,Moran,Gertie,1m,Child,,No,CF,4,6,5,1/1/1889,1889,1/18/1889,1889
+382,Slaven,Mary,2w,Child,,No,CF,4,6,5,1/1/1882,1882,5/24/1882,1882
+383,McMorrow,Infant,Stillborn,Child,,No,CF,4,6,6,6/20/1882,1882,6/20/1882,1882
+384,McCarty,Jane,6y,Child,,No,CF,4,6,7,1/1/1881,1881,9/26/1887,1887
+385,McCarthy,Agnes,6m,Child,,No,CF,4,6,8,11/22/1885,1885,3/30/1886,1886
+386,McCarty,Dennis,3y,Child,,No,CF,4,6,8,1/1/1879,1879,8/22/1882,1882
+387,Hanley,Theresa,7m,Child,,No,CF,4,6,9,1/1/1883,1883,7/10/1883,1883
+388,Carney,Thomas,3w,Child,,No,CF,4,6,10,10/1/1882,1882,11/8/1882,1882
+389,Holden,Infant,Stillborn,Child,,No,CF,4,6,10,11/3/1894,1894,11/3/1894,1894
+390,Slaven,James,5m,Child,,No,CF,4,6,10,1/1/1882,1882,8/26/1882,1882
+391,Donovan,Honora,3m,Child,,No,CF,4,6,12,2/1/1882,1882,4/3/1882,1882
+392,Dixon,Mary,2w,Child,,No,CF,4,6,13,5/1/1883,1883,5/17/1883,1883
+393,Byrne,Mary,1y,Child,,No,CF,4,6,14,1/1/1882,1882,9/9/1883,1883
+394,Howe,Minnie,9m,Child,,No,CF,4,6,14,12/1/1882,1882,8/2/1883,1883
+395,Bogy,Maud,5y,Child,,No,CF,4,6,15,1/1/1878,1878,7/29/1883,1883
+396,Byrne,Katie,7m ,Child,,No,CF,4,6,16,1/1/1887,1887,8/11/1887,1887
+397,Pife,Annie,2d,Child,,No,CF,4,6,16,1/1/1889,1889,4/11/1889,1889
+398,Sullivan,Infant,Stillborn,Child,,No,CF,4,6,16,6/6/1883,1883,6/6/1883,1883
+399,Gallagher,Thomas,2y,Child,,No,CF,5,1,1,1/1/1878,1878,6/21/1880,1880
+400,Gallagher,H. S.,,,,No,CF,5,1,2,,0,5/7/1880,1880
+401,Riedenore,Phillip,,,,No,CF,5,1,4,,0,12/15/1880,1880
+402,Schultz,Daniel,50y,Adult,,No,CF,5,1,5,1/1/1832,1832,3/18/1882,1882
+403,Keating,Michael,10d,Child,,No,CF,5,1,6,9/7/1882,1882,9/18/1887,1887
+404,Frager,Antonio,22y,Adult,,No,CF,5,1,8,1/1/1860,1860,9/6/1882,1882
+405,Felver,Chas E,30y,Adult,American,No,CF,5,1,9,1/1/1865,1865,11/7/1895,1895
+406,Hampton,John,40y,Adult,Irish,No,CF,5,1,10,1/1/1842,1842,11/30/1882,1882
+407,Taggart,Joseph,36y,Adult,Irish,No,CF,5,1,11,1/1/1850,1850,5/29/1886,1886
+408,Rogan,John,23y,Adult,Irish,No,CF,5,1,12,1/1/1877,1877,7/1/1882,1882
+409,Kennedy,Mishael,23y,Adult,Irish,No,CF,5,1,13,1/1/1854,1854,5/14/1882,1882
+410,McGivem,James,40y,Adult,,No,CF,5,1,13,1/1/1842,1842,6/27/1882,1882
+411,Sullivan,Mrs T. M.,26y,Adult,,No,CF,5,1,14,1/1/1856,1856,3/6/1882,1882
+412,Park,Rose,69y,Adult,,No,CF,5,1,16,1/1/1812,1812,12/29/1881,1881
+413,Phelan,Lawrence,27y,Adult,,No,CF,5,1,17,1/1/1854,1854,11/11/1881,1881
+414,Devine ,Phillip,82y,Adult,,No,CF,5,2,4,12/3/1904,1799,12/29/1881,1881
+415,Shear ,J. P,22y,Adult,,No,CF,5,2,5,1/1/1860,1860,3/6/1882,1882
+416,Sprut,Samuel,38y,Adult,,No,CF,5,2,5,1/1/1844,1844,2/23/1882,1882
+417,Deltaile,Alphonzo,26y,Adult,,No,CF,5,2,6,1/1/1856,1856,5/2/1882,1882
+418,Lavigrey,Alfred,23y,Adult,,No,CF,5,2,7,1/1/1859,1859,7/18/1882,1882
+419,Nidson,Simon,38y,Adult,,No,CF,5,2,7,1/1/1845,1845,6/23/1883,1883
+420,Sullivan,James,22y,Adult,,No,CF,5,2,7,1/1/1860,1860,7/22/1882,1882
+421,Magee,,29y,Adult,,No,CF,5,2,9,1/1/1853,1853,12/1/1882,1882
+422,Conway ,John,25y,Adult,Irish,No,CF,5,2,10,1/1/1860,1860,1/24/1885,1885
+423,Keefe,James,20y,Adult,American,No,CF,5,2,11,1/1/1862,1862,8/16/1882,1882
+424,Connelly,Hannah,35y,Adult,,No,CF,5,2,12,1/1/1847,1847,7/3/1882,1882
+425,Conway,William,,,,No,CF,5,2,13,,0,4/13/1880,1880
+426,Regan,John,62y,Adult,Irish,No,CF,5,2,13,1/1/1820,1820,5/21/1882,1882
+427,Raggle,John,34y,Adult,,No,CF,5,2,14,1/1/1863,1863,6/19/1897,1897
+428,Murphy,John,26y,Adult,,No,CF,5,2,15,1/1/1856,1856,1/22/1882,1882
+429,Ladd,Margaret,38y,Adult,,No,CF,5,2,16,1/1/1845,1845,2/20/1883,1883
+430,McCarny,Arthur,32y,Adult,,No,CF,5,2,16,1/1/1849,1849,11/25/1881,1881
+431,Fitzgerald,Jon,,,,No,CF,5,2,17,,0,4/8/1880,1880
+432,Hall,Maggie,11y,Child,,No,CF,5,3,1,1/1/1880,1880,1/29/1891,1891
+433,Lynch,Pat,35y,Adult,Irish,No,CF,5,3,2,1/1/1848,1848,2/7/1883,1883
+434,Duggan,Catherine,17y,Child,,No,CF,5,3,3,1/1/1864,1864,11/22/1881,1881
+435,Keogh,Mrs S,,,,No,CF,5,3,4,,0,12/10/1880,1880
+436,Sullivan,P. D.,15y,Child,,No,CF,5,3,4,1/1/1865,1865,5/1/1880,1880
+437,Howson,Benjamin,42y,Adult,,No,CF,5,3,5,1/1/1840,1840,3/3/1882,1882
+438,O'Brien,James,27y,Adult,American,No,CF,5,3,6,1/1/1861,1861,5/30/1888,1888
+439,Young ,Grace,16y,Child,,No,CF,5,3,7,1/1/1866,1866,7/27/1882,1882
+440,Mealy,Michael,21y,Adult,,No,CF,5,3,8,1/1/1861,1861,9/16/1882,1882
+441,Toomey,Elizabeth,30y,Adult,,No,CF,5,3,9,1/1/1852,1852,12/30/1882,1882
+442,Bremer,Emelind,56y,Adult,,No,CF,5,3,10,1/1/1834,1834,12/20/1890,1890
+443,Norman,James,20y,Adult,,No,CF,5,3,10,1/1/1863,1863,2/24/1883,1883
+444,Herbert,Madeline,35y,Adult,,No,CF,5,3,12,1/1/1847,1847,6/29/1882,1882
+445,Bailer,Andrew,,,,No,CF,5,3,13,,0,9/9/1889,1889
+446,Burchill,A. N. ,39y,Adult,,No,CF,5,3,13,1/1/1843,1843,5/22/1882,1882
+447,Lyons,John,30y,Adult,,No,CF,5,3,13,1/1/1869,1869,10/2/1889,1889
+448,Bouland,J. J.,25y,Adult,,No,CF,5,3,14,1/1/1857,1857,3/21/1882,1882
+449,Marquart,Katharina,32y,Adult,,No,CF,5,3,15,1/1/1850,1850,1/27/1882,1882
+450,Marquart,Katharina,10d,Child,,No,CF,5,3,15,1/18/1882,1882,1/28/1882,1882
+451,Bradley,Thomas,,,,No,CF,5,3,16,,0,4/8/1880,1880
+452,Bricker,William,39y,Adult,,No,CF,5,3,16,1/1/1850,1850,4/30/1889,1889
+453,O'Brien,Jeremiah,40y,Adult,,No,CF,5,3,16,1/1/1842,1842,5/18/1882,1882
+454,Miggins,James,26y,Adult,,No,CF,5,3,17,1/1/1855,1855,12/9/1881,1881
+455,Leaning,Fread,32y,Adult,,No,CF,5,4,3,1/1/1860,1860,1/12/1892,1892
+456,McTige,Daniel,25y,Adult,,No,CF,5,4,3,1/1/1856,1856,11/15/1881,1881
+457,Shea,Daniel D.,41y,Adult,,No,CF,5,4,4,1/1/1840,1840,12/3/1881,1881
+458,Malloy,William,36y,Adult,,No,CF,5,4,5,1/1/1846,1846,1/4/1882,1882
+459,McGarvin,John,25y,Adult,,No,CF,5,4,6,1/1/1857,1857,5/30/1882,1882
+460,Mullen,Theresa,3m,Child,,No,CF,5,4,6,1/1/1884,1884,3/9/1884,1884
+461,Collens,T. A.,55y,Adult,,yes,CF,5,4,8,3/18/1827,1827,8/21/1882,1882
+462,McNulty,Agnes,26y,Adult,,No,CF,5,4,8,1/1/1856,1856,9/23/1882,1882
+463,Gallagher,Owen,55y,Adult,,No,CF,5,4,9,1/1/1827,1827,10/27/1882,1882
+464,Carroll,John,59y,Adult,Irish,No,CF,5,4,10,1/1/1837,1837,12/19/1896,1896
+465,Crocombe,George,25y,Adult,,No,CF,5,4,10,1/1/1858,1858,1/20/1883,1883
+466,Harrington,Annie,25y,Adult,,No,CF,5,4,10,1/1/1858,1858,1/20/1883,1883
+467,Burke,Mary A,30y,Adult,,No,CF,5,4,11,1/1/1853,1853,4/22/1883,1883
+468,Kelley,B. P.,30y,Adult,,No,CF,5,4,12,1/1/1852,1852,9/10/1882,1882
+469,Doyle,Joseph,18y,Adult,,No,CF,5,4,14,1/1/1864,1864,6/21/1882,1882
+470,Ferri,Francisco,25y,Adult,,No,CF,5,4,15,1/1/1857,1857,3/21/1882,1882
+471,Fitzgerald,Julia,,,,No,CF,5,4,16,,0,12/16/1881,1881
+472,Fitzgerald,Lawrence,39y ,Adult,,No,CF,5,4,17,1/1/1841,1841,4/12/1880,1880
+473,Grimes,P. L.,26y,Adult,,No,CF,6,1,1,1/1/1856,1856,1/28/1882,1882
+474,Connelly,Mary,32y,Adult,,No,CF,6,1,2,1/1/1850,1850,6/22/1882,1882
+475,Cameron,Cornelius,27y,Adult,,No,CF,6,1,3,1/1/1855,1855,11/2/1882,1882
+476,Hewitt,Simon,36y,Adult,,No,CF,6,1,4,1/1/1847,1847,9/22/1883,1883
+477,Turner,Mary,38y,Adult,,No,CF,6,1,4,1/1/1844,1844,12/12/1882,1882
+478,Sullivan,John,27y,Adult,,No,CF,6,1,5,1/1/1856,1856,3/23/1883,1883
+479,Frisk,A. H.,30y,Adult,,No,CF,6,1,6,1/1/1852,1852,12/30/1882,1882
+480,Hail,Minnie,42y,Adult,,No,CF,6,1,6,1/1/1841,1841,1/12/1883,1883
+481,Cole,Cynthia,55y,Adult,,No,CF,6,1,7,1/1/1843,1843,6/1/1891,1891
+482,Harrington,Pat,23y,Adult,Irish,No,CF,6,1,8,1/1/1860,1860,5/15/1883,1883
+483,Flannery,Elizabeth,10m,Child,,No,CF,6,1,9,1/1/1886,1886,8/17/1887,1887
+484,O'Malley,John,43y,Adult,,No,CF,6,1,10,1/1/1837,1837,7/27/1880,1880
+485,Flannery,Francis ,8y,Child,Irish,No,CF,6,1,11,1/1/1875,1875,4/18/1883,1883
+486,Flannery,Bridget,12y,Child,American,No,CF,6,1,12,1/1/1871,1871,4/16/1883,1883
+487,Hughes,Daniel,50y,Adult,Irish,No,CF,6,1,12,1/1/1833,1833,5/17/1883,1883
+488,Hughes,Daniel,50y,Adult,,No,CF,6,1,12,1/1/1838,1838,3/17/1888,1888
+489,Sullivan,Ellen,50y,Adult,,No,CF,6,1,13,1/1/1838,1838,6/10/1888,1888
+490,Sullivan,Mrs E.,50y,Adult,,No,CF,6,1,14,1/1/1833,1833,6/14/1883,1883
+491,Sullivan,Ellen,9y,Child,,No,CF,6,1,14,1/1/1880,1880,8/5/1889,1889
+492,Sullivan,Joseph,12d,Child,,No,CF,6,1,14,1/1/1888,1888,4/9/1888,1888
+493,Martin ,Michael,22y,Adult,,No,CF,6,1,15,1/1/1861,1861,2/10/1883,1883
+494,McMorrow,Felix,35y,Adult,Irish,No,CF,6,1,16,1/1/1848,1848,2/10/1883,1883
+495,McNamara,Mamie,39y,Adult,,No,CF,6,1,16,1/1/1847,1847,7/18/1886,1886
+496,Jones,Owen,25y,Adult,,No,CF,6,2,1,1/1/1857,1857,5/22/1882,1882
+497,Cook,D. S.,49y,Adult,,No,CF,6,2,3,1/1/1833,1833,12/10/1882,1882
+498,Drought,Robert,70y,Adult,Irish,No,CF,6,2,4,1/1/1824,1824,9/12/1894,1894
+499,Mooney,Patrick,35y,Adult,Irish ,No,CF,6,2,4,1/1/1848,1848,3/11/1883,1883
+500,Mooney,Patrick Henry,2w,Child,,No,CF,6,2,4,2/20/1883,1883,3/6/1883,1883
+501,Close,John,45y,Adult,,No,CF,6,2,5,1/1/1840,1840,10/27/1885,1885
+502,Conoghan,James,34y,Adult,English,No,CF,6,2,7,3/18/1849,1849,1/16/1883,1883
+503,Murphy,Richard,30y,Adult,,No,CF,6,2,8,1/1/1853,1853,5/28/1883,1883
+504,Flannery,Theresa,1y,Child,,No,CF,6,2,9,1/1/1882,1882,4/11/1883,1883
+505,Flannery,Daniel,20y,Adult,,No,CF,6,2,10,10/26/1862,1862,3/25/1883,1883
+506,Flannery,Mary A,58y,Adult,,No,CF,6,2,10,1/1/1847,1847,1/26/1905,1905
+507,Flannery,Mary A,18y,Adult,American,No,CF,6,2,11,1/1/1864,1864,4/6/1883,1883
+508,McCanty,Patrick,30y,Adult,,No,CF,6,2,13,1/1/1853,1853,6/1/1883,1883
+509,Hanley,Joseph,35y,Adult,,No,CF,6,2,14,1/1/1848,1848,7/10/1883,1883
+510,Kelian,Hugh,40y,Adult,,No,CF,6,2,16,1/1/1843,1843,2/11/1883,1883
+511,Sullivan,Edward,1y,Child,,No,CF,6,3,1,1/1/1879,1879,8/30/1880,1880
+512,Woods,George,50y,Adult,,No,CF,6,3,1,1/1/1832,1832,6/26/1882,1882
+513,Harrington,Daniel,45y,Adult,,No,CF,6,3,2,1/1/1837,1837,7/14/1882,1882
+514,Sullivan,Timothy D. ,23y,Adult,,No,CF,6,3,3,1/1/1860,1860,3/1/1883,1883
+515,Brady ,James,30y,Adult,American,No,CF,6,3,4,1/1/1854,1854,3/17/1883,1883
+516,Ryan,John,50y,Adult,,No,CF,6,3,5,1/1/1833,1833,4/6/1883,1883
+517,Burns,Bridget,76y,Adult,Irish,No,CF,6,3,6,12/11/1904,1807,1/29/1883,1883
+518,Gibbons,George,55y,Adult,,No,CF,6,3,6,1/1/1852,1852,8/30/1907,1907
+519,McCarn,Nellie,6y,Child,,No,CF,6,3,7,1/1/1874,1874,9/20/1880,1880
+520,McManus,Pat,29y,Adult,,No,CF,6,3,7,1/1/1880,1880,4/18/1883,1883
+521,O'Brien,Hannah,34y,Adult,American,No,CF,6,3,8,1/1/1849,1849,5/31/1883,1883
+522,Ley,John,50y,Adult,,No,CF,6,3,10,1/1/1833,1833,8/25/1883,1883
+523,Geary,Thomas,2m,Child,,No,CF,6,3,11,3/1/1888,1888,5/23/1888,1888
+524,McImnes,Anthony,38y,Adult,,No,CF,6,3,12,1/1/1845,1845,5/4/1883,1883
+525,Connelly,William,28y ,Adult,,No,CF,6,3,13,1/1/1855,1855,6/28/1883,1883
+526,Cornally,William,28y,Adult,,No,CF,6,3,13,1/1/1855,1855,6/28/1883,1883
+527,Cavanaugh,John,64y,Adult,,No,CF,6,3,14,1/1/1819,1819,9/19/1883,1883
+528,Cahill,Mary,23y,Adult,,No,CF,6,3,15,1/1/1860,1860,3/11/1883,1883
+529,Farrell,Lawrence,30y,Adult,Irish,No,CF,6,3,16,1/1/1853,1853,3/3/1883,1883
+530,Thompson,Charles,,,,No,CF,6,3,17,,0,5/18/1880,1880
+531,Gehany,John,45y,Adult,,No,CF,6,4,2,1/1/1837,1837,8/31/1882,1882
+532,McCarty,Timothy,26y,Adult,,No,CF,6,4,3,1/1/1856,1856,11/15/1882,1882
+533,Holleran,John,28y,Adult,,No,CF,6,4,4,1/1/1855,1855,2/23/1883,1883
+534,Conden,Dennis,35y,Adult,,No,CF,6,4,5,1/1/1848,1848,3/30/1883,1883
+535,Ganett,Lucy,33y,Adult,,No,CF,6,4,6,1/1/1855,1855,10/22/1888,1888
+536,Farrell,James,45y,Adult,,No,CF,6,4,7,1/1/1838,1838,4/14/1883,1883
+537,Kerr,,45y,Adult,,No,CF,6,4,8,1/1/1838,1838,4/27/1883,1883
+538,Shea,Bart,,,,No,CF,6,4,9,,0,7/18/1883,1883
+539,Bean,Hugh,32y,Adult,,No,CF,6,4,11,1/1/1851,1851,4/18/1883,1883
+540,Leonard,Margaret,39y,Adult,,No,CF,6,4,12,1/1/1844,1844,5/8/1883,1883
+541,Campbell,Agnes,45y,Adult,,No,CF,6,4,13,1/1/1843,1843,11/21/1888,1888
+542,Manning ,Teddie,30y,Adult,,No,CF,6,4,13,1/1/1853,1853,6/27/1883,1883
+543,Maher,John,32y,Adult,,No,CF,6,4,14,1/1/1851,1851,8/27/1883,1883
+544,Guilfoyle,Martin,46y,Adult,,No,CF,6,4,15,1/1/1837,1837,3/16/1883,1883
+545,McCarthy ,Daniel,,,,No,CF,6,4,15,,0,7/17/1880,1880
+546,McManama,P. A. J.,27y,Adult,,No,CF,6,4,16,1/1/1856,1856,3/15/1883,1883
+547,Harrington,Annie,,,,No,CF,6,6,2,,0,9/5/1883,1883
+548,Healey,Infant,,,,No,CF,6,6,6,,,,1900
+549,McGurk,Maggie,,,,No,CF,6,6,6,,0,10/2/1883,1883
+550,McGurk,Maggie,,,,No,CF,6,6,6,,0,10/2/1883,1883
+551,Powers,Annie,2y,Child,,No,CF,6,6,7,1/1/1878,1878,10/9/1880,1880
+552,Murray,Michael,27y,Adult,,No,CF,7,1,1,1/1/1856,1856,1/28/1883,1883
+553,Wilson,Henry,74y,Adult,,No,CF,7,1,3,1/1/1808,1808,2/9/1882,1882
+554,Westover,Mary,3w,Child,,No,CF,7,1,12,1/1/1888,1888,11/7/1888,1888
+555,Pullen,Willie,1y,Child,,No,CF,7,1,14,1/1/1887,1887,11/26/1888,1888
+556,Sullivan,Michael,1y,Child,,No,CF,7,1,15,1/1/1880,1880,8/21/1881,1881
+557,Doran,Henry,,,,No,CF,7,1,17,,0,9/1/1880,1880
+558,Doran,Johanna,,,,No,CF,7,1,17,,0,6/1/1884,1884
+559,Murray,John,24y,Adult,,No,CF,7,2,1,1/1/1858,1858,7/10/1882,1882
+560,Neville,Michael,30y,Adult,,No,CF,7,2,1,1/1/1853,1853,1/30/1883,1883
+561,Listen,Ella,1y,Child,,No,CF,7,2,2,1/1/1888,1888,12/3/1888,1888
+562,Listen,Jennie,12y,Child,,No,CF,7,2,2,1/1/1870,1870,6/23/1882,1882
+563,McDonald,John M.,38y,Adult,,No,CF,7,2,3,1/1/1845,1845,1/4/1883,1883
+564,Breman,Mary ,2y,Child,,No,CF,7,2,8,1/1/1879,1879,8/6/1881,1881
+565,Brennan,Mary,2y,Child,,No,CF,7,2,8,1/1/1879,1879,8/6/1881,1881
+566,Thomborg,Infant,3m,Child,,No,CF,7,2,9,1/1/1880,1880,1/3/1881,1881
+567,Kelly,Darby,28y,Adult,,No,CF,7,3,1,1/1/1859,1859,2/7/1883,1883
+568,Mullen ,Agatie,1y,Child,,No,CF,7,3,7,1/1/1880,1880,8/6/1881,1881
+569,McMorrow,Mary Ellen,2w,Child,,No,CF,7,3,15,7/28/1881,1881,8/14/1881,1881
+570,Finn,Joseph,50y,Adult,,No,CF,7,4,1,1/1/1833,1833,2/9/1883,1883
+571,Peabody,Madeline,9d,Child,,No,CF,7,4,2,1/1/1902,1902,6/18/1902,1902
+572,Gruber,Fred,30y,Adult,,No,CF,7,4,8,1/1/1852,1852,12/11/1882,1882
+573,Ralph,Barney,62y,Adult,,No,CF,7,4,9,1/1/1818,1818,12/2/1880,1880
+574,Close,Frank,,,,No,CF,7,4,11,,0,11/22/1880,1880
+575,Scales,Libbie,42y,Adult,,No,CF,7,4,14,1/1/1839,1839,2/4/1881,1881
+576,Nester ,Allen,8m,Child,,No,CF,7,4,15,1/1/1881,1881,8/8/1881,1881
+577,Stamer,,,,,No,CF,7,4,16,1/1/1881,1881,,1900
+578,Sullivan,Infant,Stillborn,Child,,No,CF,7,4,16,10/27/1887,1887,10/27/1887,1887
+579,Sullivan,Patrick G.,23y,Adult,,No,CF,7,4,16,1/1/1857,1857,9/13/1880,1880
+580,McCarthy ,Mrs J. P.,25y,Adult,,No,CF,8,2,9,1/1/1865,1865,10/15/1880,1880
+581,Birmingham,R. W.,1y,Child,,No,CF,8,2,10,1/1/1880,1880,8/16/1881,1881
+582,Wheatley,James,2y,Child,,No,CF,8,2,11,1/1/1878,1878,12/7/1880,1880
+583,Wheatley,Thomas,7m,Child,,No,CF,8,2,11,1/1/1881,1881,8/27/1881,1881
+584,Walsh,Jane A,1y,Child,,No,CF,8,6,12,1/1/1880,1880,9/15/1881,1881
+585,Lanargan,William,,,Irish,No,CF,9,1,10,,0,11/15/1880,1880
+586,Flannery,Agnes,3m,Child,American,No,CF,9,1,13,1/1/1880,1880,7/21/1880,1880
+587,Boiland,William,1y,Child,,No,CF,9,1,16,1/1/1879,1879,3/6/1880,1880
+588,Sullivan,Mary,29y,Adult,,No,CF,9,3,10,1/1/1851,1851,11/14/1880,1880
+589,Simons,Infant,Stillborn,Child,,No,CF,10,1,1,6/2/1899,1899,6/2/1899,1899
+590,Boyle,James,35y,Adult,,No,CF,10,3,17,1/1/1845,1845,3/4/1880,1880
+591,Keating,Infant,Stillborn,Child,,No,CF,11,1,1,4/2/1887,1887,4/2/1887,1887
+592,Sims,Infant,Stillborn,Child,,No,CF,11,1,1,8/16/1884,1884,8/16/1884,1884
+593,Bryant,M. M.,5y,Child,,No,CF,11,1,2,1/1/1882,1882,4/12/1887,1887
+594,Manning ,Infant,Stillborn,Child,,No,CF,11,1,3,10/3/1884,1884,10/3/1884,1884
+595,O'Connor,Maggie,7m,Child,,No,CF,11,1,3,1/1/1883,1883,4/15/1884,1884
+596,McNamara,Alice ,3y,Child,,No,CF,11,1,4,1/1/1881,1881,4/18/1884,1884
+597,Gennan,Infant,Stillborn,Child,,No,CF,11,1,5,5/7/1884,1884,5/7/1884,1884
+598,Monahan,David,1y,Child,,No,CF,11,1,6,1/1/1883,1883,5/7/1884,1884
+599,Monihan,David,1y,Child,,No,CF,11,1,6,5/2/1883,1883,5/7/1884,1884
+600,Monahan,Katie,1y,Child,,No,CF,11,1,7,1/1/1883,1883,5/10/1884,1884
+601,Holleran,Thomas,32y,Adult,Irish,No,CF,11,1,8,1/1/1851,1851,2/23/1883,1883
+602,Abbott,Infant,Stillborn,Child,,No,CF,11,1,10,2/19/1889,1889,2/19/1889,1889
+603,Dermanda,Catherine,5m,Child,,No,CF,11,1,10,4/1/1884,1884,9/10/1884,1884
+604,Dermody,James,4m,Child,,No,CF,11,1,10,5/1/1888,1888,8/30/1888,1888
+605,Kelley,John,9d,Child,,No,CF,11,1,11,6/1/1884,1884,7/5/1884,1884
+606,King,Emma,3y,Child,,No,CF,11,1,11,1/1/1894,1894,11/12/1897,1897
+607,Kelley,Nellie,3d,Child,,No,CF,11,1,12,6/18/1884,1884,6/21/1884,1884
+608,King,Felix,5y,Child,,No,CF,11,1,12,1/1/1892,1892,11/4/1897,1897
+609,McCarthy ,Margaret,6w,Child,,No,CF,11,1,12,1/1/1884,1884,12/11/1884,1884
+610,Papisch,Martin,1y,Child,,No,CF,11,1,12,1/1/1886,1886,11/27/1887,1887
+611,Spaulding,Peter,1d,Child,,No,CF,11,1,13,7/6/1880,1880,7/14/1880,1880
+612,Farrell,Donna,1y,Child,,No,CF,11,1,15,1/1/1887,1887,5/29/1888,1888
+613,Farrell,Thomas,2m,Child,,No,CF,11,1,15,1/1/1884,1884,3/23/1884,1884
+614,Carby,Sarah,2d,Child,,No,CF,11,1,16,2/24/1884,1884,2/26/1884,1884
+615,Fitzgerald,Thomas,5y,Child,,No,CF,11,2,1,1/1/1880,1880,12/24/1885,1885
+616,Bond,Mary A,10d,Child,,No,CF,11,2,2,1/9/1884,1884,1/19/1884,1884
+617,Penrod,Agnes,2m,Child,,No,CF,11,2,3,1/1/1884,1884,4/16/1884,1884
+618,Earle,Edwin,2m,Child,,No,CF,11,2,4,5/1/1880,1880,7/22/1880,1880
+619,Sullivan,Infant,Stillborn,Child,,No,CF,11,2,4,4/20/1884,1884,4/20/1884,1884
+620,Costello,Annie,13m,Child,,No,CF,11,2,5,4/1/1883,1883,5/16/1884,1884
+621,McCarty,Eddie,6w,Child,,No,CF,11,2,6,1/1/1884,1884,5/18/1884,1884
+622,Tracy,Mattie,6y,Child,,No,CF,11,2,7,1/1/1880,1880,8/15/1886,1886
+623,Tracy,Peter,1m,Child,,No,CF,11,2,7,5/1/1885,1885,6/24/1885,1885
+624,Tracy,Infant,Stillborn,Child,,No,CF,11,2,8,12/18/1889,1889,12/18/1889,1889
+625,Tracy,Elizabeth,4m,Child,,No,CF,11,2,8,1/1/1894,1894,5/7/1894,1894
+626,Tracy,Mary,3w,Child,,No,CF,11,2,8,1/1/1884,1884,6/16/1884,1884
+627,McCarthy,Infant,Stillborn,Child,,No,CF,11,2,10,10/3/1884,1884,10/3/1884,1884
+628,Rourk,Margaret,7d,Child,,No,CF,11,2,10,9/4/1884,1884,9/11/1884,1884
+629,Rourk,Thomas,5d,Child,,No,CF,11,2,10,9/5/1884,1884,9/10/1884,1884
+630,Shea,Katie,8y,Child,,No,CF,11,2,11,1/1/1877,1877,9/25/1885,1885
+631,McCall,James,1y,Child,,No,CF,11,2,13,1/1/1885,1885,6/6/1886,1886
+632,McCall,Margaret,2y,Child,,No,CF,11,2,13,1/1/1882,1882,10/5/1884,1884
+633,Conway,Ellen,10d,Child,,No,CF,11,2,14,11/30/1881,1881,12/8/1885,1885
+634,Gibson,Maggie,6y,Child,,No,CF,11,2,15,1/1/1881,1881,4/16/1887,1887
+635,Quinlan,John,8m,Child,,No,CF,11,2,16,1/1/1883,1883,3/9/1884,1884
+636,Wilkins,Felix,5y,Child,,yes,CF,11,2,17,1/1/1892,1892,11/3/1897,1897
+637,Rau,Katy,6d,Child,,No,CF,11,3,1,12/15/1883,1883,12/21/1883,1883
+638,Hamilton,Infant,Stillborn,Child,,No,CF,11,3,2,5/28/1890,1890,5/28/1890,1890
+639,Dowan ,Infant ,2d,Child,,No,CF,11,3,3,4/10/1884,1884,4/12/1884,1884
+640,Driscoll,Infant,Stillborn,Child,,No,CF,11,3,4,4/21/1884,1884,4/21/1884,1884
+641,Gabouri,Gertrude,1y,Child,,No,CF,11,3,5,1/1/1883,1883,4/29/1884,1884
+642,Cox,James,11m,Child,,No,CF,11,3,6,6/1/1883,1883,5/23/1884,1884
+643,Sullivan,Timothy,7m,Child,,No,CF,11,3,7,1/1/1883,1883,5/28/1884,1884
+644,Moore,James,5h,Child,,No,CF,11,3,8,1/11/1885,1885,1/11/1885,1885
+645,Sullivan,Timothy,,,,No,CF,11,3,9,,0,6/12/1887,1887
+646,Holleran,William,2w,Child,,No,CF,11,3,10,9/1/1884,1884,9/14/1884,1884
+647,Wiley,Infant,Stillborn,Child,,No,CF,11,3,11,4/23/1887,1887,4/23/1887,1887
+648,Campbell,,3y,Child,,No,CF,11,3,12,1/1/1881,1881,11/12/1884,1884
+649,Blake,Michael,2w,Child,,No,CF,11,3,13,6/1/1885,1885,6/12/1885,1885
+650,McCarthy ,Charles,40y,Adult,,No,CF,11,3,13,1/1/1865,1865,9/22/1905,1905
+651,Sullivan,Catherine,2m,Child,,No,CF,11,3,13,1/1/1886,1886,8/16/1886,1886
+652,Sweeney,Anna,2m,Child,,No,CF,11,3,14,3/29/1884,1884,7/25/1884,1884
+653,Brainard,Infant,Stillborn,Child,,No,CF,11,3,15,9/28/1894,1894,9/28/1894,1894
+654,O'Toole,,Stillborn,Child,,No,CF,11,4,1,1/20/1884,1884,1/20/1884,1884
+655,Kelley,Albert,2d,Child,,No,CF,11,4,2,1/25/1891,1891,1/27/1891,1891
+656,Kelley,Infant,Stillborn,Child,,No,CF,11,4,2,1/26/1884,1884,1/26/1884,1884
+657,Dougherty,Infant,Stillborn,Child,,No,CF,11,4,3,8/22/1886,1886,8/22/1886,1886
+658,Carty ,John,3w,Child,,No,CF,11,4,4,4/1/1884,1884,4/27/1884,1884
+659,Quinlan,Mary,2h,Child,,No,CF,11,4,5,5/2/1884,1884,5/2/1884,1884
+660,Dwyre,Malachi,1m,Child,,No,CF,11,4,6,4/1/1884,1884,5/24/1884,1884
+661,Gravy,Eva,1m,Child,,No,CF,11,4,7,4/1/1884,1884,5/28/1884,1884
+662,McGrevy,Infant,Stillborn,Child,,No,CF,11,4,7,3/31/1887,1887,3/31/1887,1887
+663,McGrevy,Eva,1m,,,No,CF,11,4,7,4/27/1884,1884,5/28/1884,1884
+664,Unknown,black,48y,Adult,,No,CF,11,4,7,1/1/1854,1854,3/11/1902,1902
+665,Riddcan,Mary,3m,Child,,No,CF,11,4,8,1/1/1884,1884,6/13/1884,1884
+666,Ferry,Daniel,11m,Child,,No,CF,11,4,9,7/1/1883,1883,6/30/1884,1884
+667,Larkin,John,8m,Child,,No,CF,11,4,10,1/1/1884,1884,4/6/1884,1884
+668,McHatton,H.,1y,Child,,No,CF,11,4,11,1/1/1886,1886,4/22/1888,1888
+669,Timmons,Emma,2y,Child,,No,CF,11,4,12,1/1/1883,1883,5/22/1885,1885
+670,Daugherty,Infant,Stillborn,Child,,No,CF,11,4,13,4/27/1885,1885,4/27/1885,1885
+671,Daugherty,Infant,1d,Child,,No,CF,11,4,13,4/27/1885,1885,4/28/1885,1885
+672,Harriett,Infant ,2m,Child,,No,CF,11,4,15,1/1/1884,1884,3/13/1884,1884
+673,Dougherty,Thomas,4d,Child,,No,CF,11,4,16,7/21/1884,1884,7/25/1884,1884
+674,Campbell,William,,,,No,CF,11,5,1,,0,9/6/1896,1896
+675,Campbell,William A,8m,Child,,No,CF,11,5,1,12/1/1886,1886,7/17/1887,1887
+676,O'Neil,Julia,2Y,Child,,No,CF,11,5,2,1/1/1882,1882,2/24/1888,1888
+677,O'Neil,Mary,4m,Child,,No,CF,11,5,3,1/1/1884,1884,4/9/1884,1884
+678,Veleta,Frank,21y,Adult,,No,CF,11,5,3,1/1/1870,1870,6/6/1891,1891
+679,Deesy,Mary,9m,Child,,No,CF,11,5,4,9/1/1883,1883,5/1/1884,1884
+680,Gaughan,John,3w,Child,,yes,CF,11,5,5,4/1/1883,1883,5/14/1884,1884
+681,Dwyer,John,1m,Child,,No,CF,11,5,6,1/1/1883,1883,5/27/1884,1884
+682,Dwyre,Nellie,1y,Child,,No,CF,11,5,7,1/1/1881,1881,6/1/1884,1884
+683,Holton,Stella,2w,Child,,No,CF,11,5,7,12/1/1889,1889,12/17/1889,1889
+684,Driscoll,Infant,Stillborn,Child,,No,CF,11,5,8,10/8/1892,1892,10/8/1892,1892
+685,Driscoll,Jennie,2y,Child,,No,CF,11,5,8,1/1/1882,1882,6/7/1884,1884
+686,Kaufman,Maggie,2m,Child,,No,CF,11,5,8,8/1/1896,1896,10/4/1896,1896
+687,Gleason,Alice,6w,Child,,No,CF,11,5,9,5/1/1884,1884,7/2/1884,1884
+688,Gleason,Cecilia,21m,Child,,No,CF,11,5,9,5/15/1886,1886,3/6/1888,1888
+689,Albertson,Laura,4m,Child,,No,CF,11,5,10,1/1/1884,1884,9/7/1884,1884
+690,O'Malley,Mary,1y,Child,,No,CF,11,5,11,1/1/1886,1886,4/20/1887,1887
+691,Dullard,Julia,1w,Child,,No,CF,11,5,12,4/1/1885,1885,4/26/1885,1885
+692,Butchler,Clara,20m,Child,,No,CF,11,5,13,1/1/1883,1883,12/12/1884,1884
+693,Brandon,Mamie,2m,Child,,No,CF,11,5,14,5/1/1884,1884,7/21/1884,1884
+694,Gilles,Janet,2w,Child,,No,CF,11,5,15,3/1/1884,1884,3/13/1884,1884
+695,Manning ,Katie,4y,Child,,No,CF,11,5,15,1/1/1880,1880,4/21/1884,1884
+696,Delaney,Charles,4m,Child,American,No,CF,11,5,16,7/1/1887,1887,10/11/1887,1887
+697,Doyle,John,4y,Child,,No,CF,11,6,1,1/1/1854,1854,2/17/1884,1884
+698,Longenbahm,George,1y,Child,,No,CF,11,6,1,1/1/1895,1895,1/10/1896,1896
+699,Quinlan,Willie,1d,Child,,No,CF,11,6,2,8/14/1885,1885,8/15/1885,1885
+700,Brennan,Anna,1y,Child,Irish,No,CF,11,6,3,1/1/1883,1883,4/7/1884,1884
+701,Riesch,Mary,7y,Child,,No,CF,11,6,5,1/1/1877,1877,5/7/1884,1884
+702,Scanlon,Patrick,50y,Adult,,No,CF,11,6,5,1/1/1877,1877,5/14/1886,1886
+703,Cassedy,Infant,8d,Child,,No,CF,11,6,6,5/1/1884,1884,5/27/1884,1884
+704,Birmingham,Johanna,3m,Child,Irish,No,CF,11,6,7,4/16/1884,1884,6/1/1884,1884
+705,Carter,G. E.,12d,Child,,No,CF,11,6,8,5/1/1889,1889,5/12/1889,1889
+706,Curtis,George,12d,Child,,No,CF,11,6,8,5/1/1889,1889,5/12/1889,1889
+707,Vaughn,Daniel,2y,Child,,No,CF,11,6,8,1/1/1882,1882,6/5/1884,1884
+708,Early,John,3y,Child,,No,CF,11,6,9,1/1/1881,1881,6/24/1884,1884
+709,Cooney,Mary Ellen,3m,Child,American,No,CF,11,6,10,5/1/1884,1884,8/24/1884,1884
+710,Morrow,Matilda,5y,Child,,No,CF,11,6,13,1/1/1881,1881,5/22/1886,1886
+711,Mead,Willie,1y,Child,,No,CF,11,6,14,1/1/1886,1886,2/24/1887,1887
+712,Meade,John Henry,2w,Child,,No,CF,11,6,14,7/2/1884,1884,7/18/1884,1884
+713,Manning ,Kate,2y,Child,,No,CF,11,6,15,1/1/1885,1885,5/5/1887,1887
+714,Manning ,Josie,1y,Child,,No,CF,11,6,15,1/1/1883,1883,4/19/1884,1884
+715,Delaney,Gertrude,3w,Child,American,No,CF,11,6,16,2/1/1884,1884,3/14/1884,1884
+716,Lamphier,D. W.,46y,Adult,,No,CF,12,1,1,1/1/1837,1837,4/4/1883,1883
+717,McCarty,John,35y,Adult,,No,CF,12,1,2,1/1/1855,1855,9/4/1880,1880
+718,Burns,Hugh,61y,Adult,,yes,CF,12,1,3,1/1/1822,1822,5/10/1883,1883
+719,Lennon,Edward,50y,Adult,,No,CF,12,1,3,1/1/1833,1833,9/24/1883,1883
+720,Laughlin,Andrew,40y,Adult,,No,CF,12,1,4,1/1/1843,1843,11/25/1883,1883
+721,Flanagan,Bartholomew,29y,Adult,,No,CF,12,1,5,1/1/1855,1855,8/3/1884,1884
+722,Dewparte,,,,,No,CF,12,1,6,,0,9/30/1890,1890
+723,Maguire,M,28y,Adult,,No,CF,12,1,6,1/1/1857,1857,3/16/1885,1885
+724,Morris,Joseph,25y,Adult,,No,CF,12,1,7,1/1/1861,1861,5/29/1886,1886
+725,Mulholland,Joseph,31y,Adult,,No,CF,12,1,8,1/1/1855,1855,4/25/1886,1886
+726,Murphy,Michael,28y,Adult,,No,CF,12,1,9,1/1/1858,1858,6/24/1886,1886
+727,Whalen,William,40y,Adult,,No,CF,12,1,10,1/1/1845,1845,4/27/1885,1885
+728,Holland,Jemy,70y,Adult,,No,CF,12,1,11,1/1/1816,1816,3/24/1886,1886
+729,Doyle,Michael,40y,Adult,,No,CF,12,1,12,1/1/1846,1846,5/30/1886,1886
+730,Wheatley,George,21y,Adult,,No,CF,12,1,12,1/1/1863,1863,11/3/1884,1884
+731,Dumphy,Andrew,50y,Adult,,No,CF,12,1,13,1/1/1833,1833,11/9/1883,1883
+732,Wheatley,James,30y,Adult,,No,CF,12,1,13,1/1/1854,1854,8/24/1884,1884
+733,Clark,A. W.,44y,Adult,,No,CF,12,1,14,1/1/1840,1840,8/31/1884,1884
+734,Lowery,John,40y,Adult,,No,CF,12,1,15,1/1/1833,1833,10/19/1883,1883
+735,McManamie,John,44y,Adult,,No,CF,12,1,16,1/1/1839,1839,9/1/1883,1883
+736,O'Neill,John,27y,Adult,,No,CF,12,2,1,1/1/1856,1856,5/8/1883,1883
+737,Keeler,John,40y,Adult,,No,CF,12,2,2,1/1/1843,1843,5/2/1883,1883
+738,Bruno,Antonio,33y,Adult,,No,CF,12,2,3,1/1/1850,1850,9/28/1883,1883
+739,Carmico,Carmosino,65y,Adult,,No,CF,12,2,4,1/1/1818,1818,12/5/1883,1883
+740,Fay,Bernard,27y,Adult,Irish,No,CF,12,2,5,1/1/1857,1857,8/1/1884,1884
+741,Bruster,Brent,23y,Adult,,No,CF,12,2,6,1/1/1868,1868,1/5/1891,1891
+742,Lyons,Elizabeth,22y,Adult,,No,CF,12,2,6,1/1/1873,1873,2/1/1885,1885
+743,Malloy,Matthew,40y,Adult,,No,CF,12,2,8,1/1/1846,1846,4/18/1886,1886
+744,Breman,John,,,,No,CF,12,2,9,,0,1/1/1885,1885
+745,Brennan,John,,,Irish,No,CF,12,2,9,,0,1/1/1885,1885
+746,Curran,John,40y,Adult,Irish,No,CF,12,2,9,1/1/1845,1845,4/6/1885,1885
+747,Cook,Lawson,51y,Adult,English,No,CF,12,2,10,1/1/1845,1845,3/18/1896,1896
+748,O'Keefe,Maggie,29y,Adult,,No,CF,12,2,10,1/1/1855,1855,4/3/1884,1884
+749,Fitch,Bronson,55y,Adult,,No,CF,12,2,11,1/1/1846,1846,3/18/1896,1896
+750,O'Keefe,Margaret,1y,Child,,No,CF,12,2,11,1/1/1884,1884,12/1/1885,1885
+751,Pray ,Patrick,30y,Adult,,No,CF,12,2,12,1/1/1846,1846,3/24/1886,1886
+752,Swearengen,Nettie,26y,Adult,,No,CF,12,2,13,1/1/1858,1858,11/11/1884,1884
+753,Welsh ,Thomas,28y,Adult,,No,CF,12,2,14,1/1/1856,1856,1/22/1884,1884
+754,McDonald,James,45y,Adult,,No,CF,12,2,15,1/1/1838,1838,10/22/1883,1883
+755,Loftus,John,25y,Adult,,No,CF,12,2,16,1/1/1858,1858,10/28/1883,1883
+756,Bovian,Aquilla,,,,No,CF,12,3,3,,0,10/27/1883,1883
+757,Doyle,Francis,1y,Child,,No,CF,12,3,4,1/1/1886,1886,10/26/1887,1887
+758,Murray,John,40y,Adult,,No,CF,12,3,4,1/1/1843,1843,12/6/1883,1883
+759,Elkskamp,Joseph,1y,Child,,No,CF,12,3,5,1/1/1889,1889,10/20/1890,1890
+760,Langenbahm,Maggie,15y,Child,,No,CF,12,3,5,1/1/1869,1869,7/24/1884,1884
+761,Flannery,Martin,45y,Adult,,No,CF,12,3,6,1/1/1840,1840,1/20/1885,1885
+762,Pinz,Frank,12y,Child,,No,CF,12,3,6,1/1/1871,1871,11/8/1883,1883
+763,Rock,John,64y,Adult,,No,CF,12,3,7,1/1/1822,1822,5/3/1886,1886
+764,Timmons,John,58y,Adult,,No,CF,12,3,8,1/1/1828,1828,4/2/1886,1886
+765,Fonti,Joseph,28y,Adult,,No,CF,12,3,10,1/1/1856,1856,12/28/1884,1884
+766,Casey,James,39y,Adult,,No,CF,12,3,13,1/1/1845,1845,10/28/1884,1884
+767,Donnelly,Bridget,1y,Child,,No,CF,12,3,14,1/1/1883,1883,3/28/1884,1884
+768,Rodgers,Daniel,23y,Adult,,No,CF,12,3,15,1/1/1877,1877,9/27/1883,1883
+769,Cumings,Bernard,32y,Adult,Irish,No,CF,12,4,1,1/1/1851,1851,5/7/1883,1883
+770,Murphy,James,25y,Adult,,No,CF,12,4,3,1/1/1858,1858,10/28/1883,1883
+771,Larcereta,Joseph,27y,Adult,,No,CF,12,4,4,1/1/1856,1856,12/14/1883,1883
+772,Fonley,Fidelia,24y,Adult,,No,CF,12,4,5,1/1/1860,1860,7/11/1884,1884
+773,Curley,C L,11y,Child,,No,CF,12,4,6,1/1/1874,1874,1/17/1885,1885
+774,Donnigan,H.,24y,Adult,,No,CF,12,4,7,1/1/1871,1871,5/8/1895,1895
+775,Tague,Henry,50y,Adult,,No,CF,12,4,7,1/1/1836,1836,4/28/1886,1886
+776,Dunnigan,Hugh,24y,Adult,,No,CF,12,4,8,1/1/1862,1862,3/26/1886,1886
+777,Bryson,Michael,,,,No,CF,12,4,9,,0,11/14/1879,1879
+778,McCloskey,Patrick,51y,Adult,,No,CF,12,4,11,1/1/1834,1834,11/15/1885,1885
+779,Robinson,Mace,19y,Adult,,No,CF,12,4,12,1/1/1866,1866,11/16/1885,1885
+780,McLean,M. H.,26y,Adult,,No,CF,12,4,13,1/1/1858,1858,1/31/1884,1884
+781,McNeill,John,23y,Adult,,No,CF,12,4,15,1/1/1850,1850,9/5/1883,1883
+782,Chamber,John,36y,Adult,,No,CF,12,4,16,1/1/1848,1848,12/6/1884,1884
+783,Doyle,Patrick,40y,Adult,,No,CF,12,4,16,1/1/1843,1843,9/25/1883,1883
+784,Burgess,Bertie,2d,Child,,No,CF,12,6,9,1/22/1891,1891,1/24/1891,1891
+785,Cummings,Jean,67y,Adult,,yes,CF,13,1,1,1/1/1817,1817,2/17/1884,1884
+786,Bane,Bridget,33y,Adult,Irish,No,CF,13,1,2,1/1/1851,1851,3/9/1884,1884
+787,Madden,James,28y,Adult,,No,CF,13,1,3,1/1/1856,1856,9/27/1884,1884
+788,McNamara,Michael,35y,Adult,,No,CF,13,1,4,1/1/1851,1851,1/25/1886,1886
+789,Stahle,Mary,32y,Adult,,No,CF,13,1,5,1/1/1848,1848,5/27/1884,1884
+790,McNamee,Alice,35y,Adult,,No,CF,13,1,6,1/1/1849,1849,4/20/1884,1884
+791,Richardson,Mrs E.,30y,Adult,,No,CF,13,1,7,1/1/1855,1855,5/5/1885,1885
+792,McCarthy ,Daniel,35y,Adult,,No,CF,13,1,8,1/1/1851,1851,10/29/1896,1896
+793,Grace,Michael,24y,Adult,,No,CF,13,1,9,1/1/1862,1862,8/31/1886,1886
+794,Gandolfa,Charles,31y,Adult,,No,CF,13,1,10,1/1/1854,1854,7/5/1885,1885
+795,Coogan,Patrick,40y,Adult,Irish,No,CF,13,1,12,1/1/1846,1846,8/15/1886,1886
+796,Kerns,Catherine,29y,Adult,,No,CF,13,1,12,1/1/1855,1855,9/11/1884,1884
+797,Manthles,John,35y,Adult,,No,CF,13,1,13,1/1/1851,1851,8/23/1886,1886
+798,Kalay,Infant,Stillborn,Child,,No,CF,13,1,14,6/14/1884,1884,6/14/1884,1884
+799,McDonald,John,37y,Adult,,No,CF,13,1,14,1/1/1848,1848,11/23/1885,1885
+800,Shay,Joseph,7y,Child,,No,CF,13,1,15,1/1/1879,1879,8/22/1880,1880
+801,Shay,Stephen,48y,Adult,,No,CF,13,1,16,1/1/1836,1836,3/19/1884,1884
+802,Shay ,Margaret,32y,Adult,,No,CF,13,1,16,1/1/1851,1851,12/21/1883,1883
+803,Ward,Mary J,40y,Adult,,No,CF,13,2,1,1/1/1844,1844,3/19/1884,1884
+804,McGovern,Mina,3y,Child,,No,CF,13,2,2,1/1/1881,1881,11/18/1884,1884
+805,McGovern,Thomas,38y,Adult,,No,CF,13,2,2,1/1/1849,1849,11/1/1887,1887
+806,Prettie,Nicholas,33y,Adult,,No,CF,13,2,3,1/1/1851,1851,9/29/1884,1884
+807,Ryan,Patrick,45y,Adult,,No,CF,13,2,4,1/1/1841,1841,1/30/1886,1886
+808,Haak,Catherine,39y,Adult,,No,CF,13,2,5,1/1/1845,1845,5/28/1884,1884
+809,Morley,John,44y,Adult,,No,CF,13,2,5,1/1/1838,1838,8/21/1882,1882
+810,Barnett,John,72y ,Adult,Irish,No,CF,13,2,6,1/1/1812,1812,5/31/1884,1884
+811,Powell,Mrs M. J.,25y,Adult,,No,CF,13,2,7,1/1/1860,1860,5/12/1885,1885
+812,Carp,Harry,20y,Adult,,No,CF,13,2,8,1/1/1866,1866,10/19/1886,1886
+813,Gernich,Frank,28y,Adult,,No,CF,13,2,9,1/1/1858,1858,8/16/1886,1886
+814,Nash,Phillip,37y,Adult,Irish ,No,CF,13,2,11,1/1/1833,1833,8/25/1885,1885
+815,Troiano,Joseph,30y,Adult,,No,CF,13,2,12,1/1/1858,1858,8/1/1886,1886
+816,Vitrillo,Onipele,35y,Adult,,No,CF,13,2,13,1/1/1851,1851,8/26/1886,1886
+817,Carr,Patrick,31y,Adult,,No,CF,13,2,14,1/1/1854,1854,12/2/1885,1885
+818,Mullen,Mathew,45y,Adult,,No,CF,13,2,15,1/1/1839,1839,2/13/1884,1884
+819,Cannon,Patrick,49y,Adult,,yes,CF,13,2,16,1/1/1836,1836,6/15/1885,1885
+820,Gannon,Patrick,49y,Adult,,No,CF,13,2,16,1/1/1836,1836,6/15/1885,1885
+821,Nester ,Richard,36y,Adult,,No,CF,13,3,1,1/1/1848,1848,3/19/1884,1884
+822,Crevan,William,5y,Child,,No,CF,13,3,2,1/1/1879,1879,3/23/1884,1884
+823,Mullen,Infant,Stillborn,Child,,No,CF,13,3,3,10/11/1884,1884,10/11/1884,1884
+824,Mullen,Ellen,22y,Adult,,No,CF,13,3,3,1/1/1862,1862,10/16/1884,1884
+825,Doyle,James,32y,Adult,,No,CF,13,3,4,1/1/1854,1854,3/2/1886,1886
+826,O'Neill,Edward,35y,Adult,,No,CF,13,3,6,1/1/1849,1849,7/18/1884,1884
+827,Ryan,Michael,45y,Adult,,No,CF,13,3,7,1/1/1840,1840,6/12/1885,1885
+828,Soardo,Michele,30y,Adult,,yes,CF,13,3,8,1/1/1856,1856,11/1/1886,1886
+829,McGinty,James,26y,Adult,,No,CF,13,3,9,1/1/1860,1860,9/27/1886,1886
+830,Quinn,Thomas,40y,Adult,,No,CF,13,3,10,1/1/1844,1844,6/24/1884,1884
+831,Lawless,P. J.,35y,Adult,,No,CF,13,3,11,1/1/1850,1850,10/15/1885,1885
+832,Hanley,Thomas,48y,Adult,,No,CF,13,3,12,1/1/1838,1838,7/28/1886,1886
+833,Heffron,William,30y,Adult,Irish,No,CF,13,3,13,1/1/1856,1856,8/25/1886,1886
+834,Calhaine,John,53y,Adult,,No,CF,13,3,14,1/1/1837,1837,8/6/1890,1890
+835,Cook,Ellen,19y,Adult,,No,CF,13,3,14,1/1/1866,1866,12/28/1885,1885
+836,Hartford,Peter,29y,Adult,Canadian,No,CF,13,3,15,1/1/1850,1850,6/16/1879,1879
+837,Fitzgerald,Mrs M,55y,Adult,,No,CF,13,3,17,1/1/1836,1836,6/24/1891,1891
+838,Crelley,Mary,42y,Adult,,No,CF,13,4,1,1/1/1842,1842,3/24/1884,1884
+839,Moriarty,Patrick,29y,Adult,,No,CF,13,4,2,1/1/1855,1855,4/18/1884,1884
+840,Byrne,Luke,44y,Adult,Irish,No,CF,13,4,3,1/1/1840,1840,10/9/1884,1884
+841,Brennan,Thomas,41y,Adult,,No,CF,13,4,4,1/1/1845,1845,1/2/1886,1886
+842,McAneny,Peter,57y,Adult,,No,CF,13,4,5,1/1/1829,1829,1/2/1886,1886
+843,Kennedy,C,25y,Adult,,No,CF,13,4,7,1/1/1859,1859,5/14/1884,1884
+844,Mallory,John,45y,Adult,,No,CF,13,4,9,1/1/1841,1841,9/26/1886,1886
+845,Molley,J,,,,No,CF,13,4,9,,,,1900
+846,Molley,Mary,2y,Child,,No,CF,13,4,9,1/1/1881,1881,10/1/1883,1883
+847,Monahan,Charles,34y,Adult,,No,CF,13,4,9,1/1/1861,1861,11/30/1895,1895
+848,Murray,Bynard,64y,Adult,,No,CF,13,4,9,1/1/1821,1821,5/9/1885,1885
+849,Murray,Bynard,64y,Adult,,No,CF,13,4,10,1/1/1821,1821,5/9/1885,1885
+850,Cully,Mrs Thomas,34y,Adult,,No,CF,13,4,11,1/1/1851,1851,9/13/1885,1885
+851,Florman,Jenine,39y,Adult,,No,CF,13,4,12,1/1/1847,1847,8/6/1886,1886
+852,Mishinack,Anton,33y,Adult,,No,CF,13,4,13,1/1/1853,1853,8/17/1886,1886
+853,McGranahan,Jane,42y,Adult,Scottish,No,CF,13,4,14,1/1/1843,1843,12/20/1885,1885
+854,Kalay,Mary,33y,Adult,,No,CF,13,4,15,1/1/1851,1851,6/17/1884,1884
+855,McBreen,William,37y,Adult,,No,CF,13,4,16,1/1/1847,1847,6/22/1884,1884
+856,O'Leary,Patrick,24y,Adult,,No,CF,13,4,16,1/1/1860,1860,8/16/1884,1884
+857,Welch,Anna,45y,Adult,,No,CF,13,4,16,1/1/1839,1839,6/23/1884,1884
+858,Carter,Infant ,4m,Child,,No,CF,13,6,4,1/1/1894,1894,11/13/1894,1894
+859,Puetz,William,5d,Child,,No,CF,14,1,1,1/1/1885,1885,2/4/1885,1885
+860,Summers,Freddie,7m,Child,,No,CF,14,1,2,1/1/1886,1886,3/6/1887,1887
+861,Cassidy,Edward,7y,Child,,No,CF,14,1,3,1/1/1880,1880,12/6/1887,1887
+862,Egan,Hannah,22m,Child,,No,CF,14,1,4,1/1/1883,1883,10/14/1885,1885
+863,Donoher,Eliza,1y,Child,,No,CF,14,1,5,8/27/1885,1885,4/7/1887,1887
+864,Murphy,James L. ,1y,Child,,No,CF,14,1,5,1/1/1886,1886,4/24/1887,1887
+865,Hoy,Elizabeth,1y,Child,,No,CF,14,1,6,1/1/1885,1885,1/5/1886,1886
+866,Dolan,James,9y,Child,American,No,CF,14,1,7,1/1/1878,1878,4/5/1887,1887
+867,Donnelly,Infant,3d,Child,,No,CF,14,1,7,1/23/1886,1886,1/26/1886,1886
+868,Donnelly,Sarah,6m,Child,,No,CF,14,1,7,2/1/1887,1887,8/4/1887,1887
+869,Bigger,Margaret,16m,Child,,No,CF,14,1,8,4/12/1885,1885,5/29/1886,1886
+870,Hollingshead,Infant,Stillborn,Child,,No,CF,14,1,8,8/12/1893,1893,8/12/1893,1893
+871,Starr,Infant,Stillborn,Child,,No,CF,14,1,8,4/27/1889,1889,4/27/1889,1889
+872,Byrne,Infant,Stillborn,Child,,No,CF,14,1,9,6/7/1886,1886,6/7/1886,1886
+873,Cullen,David,3y,Child,American,No,CF,14,1,10,1/1/1878,1878,7/25/1881,1881
+874,Gallegher,Infant,Stillborn,Child,,No,CF,14,1,10,10/20/1889,1889,10/20/1889,1889
+875,Diamond ,Catherine,2y,Child,,No,CF,14,1,11,1/1/1885,1885,5/22/1887,1887
+876,Diamond ,John,5m,Child,,No,CF,14,1,11,1/1/1888,1888,5/8/1888,1888
+877,Graham,Clara,2y,Child,,No,CF,14,1,13,1/1/1882,1882,12/24/1884,1884
+878,Daugherty,Margaret,9y,Child,,No,CF,14,1,15,1/1/1878,1878,1/28/1887,1887
+879,Lozier,Claude,4m,Child,,No,CF,14,1,16,1/1/1886,1886,12/25/1886,1886
+880,Lynch,David,1y,Child,,No,CF,14,1,16,1/1/1885,1885,10/31/1885,1885
+881,Campbell,Infant,1d,Child,,No,CF,14,1,20,1/10/1881,1881,1/11/1881,1881
+882,Foley,Josephine,1y,Child,,No,CF,14,2,1,1/1/1884,1884,2/13/1885,1885
+883,Wheatley,John,4m,Child,,No,CF,14,2,2,1/1/1886,1886,2/24/1887,1887
+884,McCourt,Anna,1y,Child,,No,CF,14,2,3,1/1/1884,1884,7/24/1885,1885
+885,Bolan,Nora,2y,Child,,No,CF,14,2,4,1/1/1883,1883,10/22/1885,1885
+886,Bolin,August,2y,Child,,No,CF,14,2,4,1/1/1879,1879,3/31/1881,1881
+887,Hart,Maggie,1y,Child,,No,CF,14,2,5,1/1/1886,1886,4/11/1887,1887
+888,Clearey,Sarah,1m,Child,,No,CF,14,2,6,3/1/1886,1886,4/21/1886,1886
+889,Killbaugh,Frank,1y,Child,,No,CF,14,2,7,1/1/1885,1885,2/11/1886,1886
+890,Hanerick,A,9m,Child,,No,CF,14,2,8,1/1/1886,1886,4/1/1887,1887
+891,Starr,Edward,2m,Child,,No,CF,14,2,8,1/1/1892,1892,8/26/1892,1892
+892,Starr,Mamie,3w,Child,,No,CF,14,2,8,1/1/1887,1887,3/26/1887,1887
+893,McCarthy,Infant,Stillborn,Child,,No,CF,14,2,9,7/13/1886,1886,7/13/1886,1886
+894,Dougherty,Bridget ,12y,Child,American,No,CF,14,2,10,1/1/1874,1874,9/28/1886,1886
+895,Campbell,William A,2y,Child,,No,CF,14,2,12,1/1/1884,1884,5/24/1886,1886
+896,Fitzgerald,Infant,Stillborn,Child,,No,CF,14,2,12,10/2/1886,1886,10/2/1886,1886
+897,Fitzgerald ,Infant,Stillborn,Child,,No,CF,14,2,12,5/25/1889,1889,5/25/1889,1889
+898,Mair,Infant,Stillborn,Child,,No,CF,14,2,12,7/19/1886,1886,7/19/1886,1886
+899,Hay,William,1y,Child,,No,CF,14,2,15,1/1/1886,1886,1/18/1887,1887
+900,Quinn,Catherine,1y,Child,,No,CF,14,2,15,1/1/1885,1885,4/24/1886,1886
+901,Fulton,Cleveland,3y,Child,,No,CF,14,2,16,1/1/1883,1883,12/28/1886,1886
+902,Eustice ,Infant,Stillborn,Child,,No,CF,14,3,1,11/30/1894,1894,11/30/1894,1894
+903,McCaughey,Joseph,5y,Child,,No,CF,14,3,1,1/1/1880,1880,2/15/1885,1885
+904,Crocombe,Infant,Stillborn,Child,,No,CF,14,3,2,11/30/1894,1894,11/30/1894,1894
+905,McCaughey,Patrick,3y,Child,,No,CF,14,3,2,1/1/1882,1882,7/2/1885,1885
+906,Gaffney,Mary,1y,Child,,No,CF,14,3,4,1/1/1884,1884,12/5/1885,1885
+907,Rose ,Charles,2y,Child,,No,CF,14,3,5,1/1/1885,1885,3/25/1887,1887
+908,Powers,Infant,Stillborn,Child,,No,CF,14,3,6,1/22/1886,1886,1/22/1886,1886
+909,Allen,Pat,2m,Child,,No,CF,14,3,7,9/1/1887,1887,11/27/1887,1887
+910,Clooney,George,4m,Child,American,No,CF,14,3,8,11/1/1886,1886,3/23/1887,1887
+911,Cook,Infant,Stillborn,Child,,No,CF,14,3,9,5/16/1894,1894,5/16/1894,1894
+912,McGoldrick,Thomas,8d,Child,,No,CF,14,3,9,8/1/1886,1886,8/23/1886,1886
+913,Ryan,Margaret,7m,Child,,No,CF,14,3,10,1/1/1886,1886,10/6/1886,1886
+914,Flanagan,C,1y,Child,,No,CF,14,3,11,1/1/1886,1886,4/21/1887,1887
+915,Powers,Anna,6y,Child,,No,CF,14,3,12,1/1/1880,1880,11/2/1886,1886
+916,Teel,Willie,7y,Child,,No,CF,14,3,13,1/1/1880,1880,7/6/1887,1887
+917,Allen,Annie,2y,Child,,No,CF,14,3,15,1/1/1885,1885,1/16/1887,1887
+918,Puetz,Frederick,1y,Child,,No,CF,14,3,15,1/1/1886,1886,4/30/1887,1887
+919,Elkskamp,Daniel,27d,Child,,No,CF,14,3,16,8/31/1888,1888,9/26/1888,1888
+920,Elkskamp,Dora,3y,Child,,No,CF,14,3,16,,0,5/20/1887,1887
+921,Schering ,William,45y,Adult,,No,CF,14,3,16,1/1/1851,1851,12/28/1896,1896
+922,Sullivan,Infant,Stillborn,Child,,No,CF,14,4,1,12/24/1888,1888,12/24/1888,1888
+923,Sullivan,Ed M,1y,Child,,No,CF,14,4,1,1/1/1884,1884,2/16/1885,1885
+924,Walker,Infant,Stillborn,Child,,No,CF,14,4,1,12/17/1894,1894,12/17/1894,1894
+925,Mayfield,Infant,1d,Child,,No,CF,14,4,3,9/25/1885,1885,9/26/1885,1885
+926,Holland,Willliam,1m,Child,,No,CF,14,4,4,10/3/1885,1885,11/5/1885,1885
+927,English,Nettie,4y,Child,,No,CF,14,4,5,1/1/1883,1883,3/24/1887,1887
+928,Flynn,Nellie,8d,Child,,No,CF,14,4,6,1/1/1886,1886,1/9/1886,1886
+929,Harverick,J,9m,Child,,No,CF,14,4,8,1/1/1886,1886,3/22/1887,1887
+930,Muckey,A. F.,4y,Child,,No,CF,14,4,8,1/1/1884,1884,1/23/1888,1888
+931,Sullivan,John,2m,Child,,No,CF,14,4,9,1/1/1886,1886,9/23/1886,1886
+932,Tigue,Michael,1d,Child,,No,CF,14,4,10,9/30/1887,1887,10/1/1887,1887
+933,McGuire,P. A.,7m,Child,,No,CF,14,4,11,1/1/1887,1887,4/14/1887,1887
+934,Rau,Infant,Stillborn,Child,,No,CF,14,4,11,3/10/1883,1883,3/10/1883,1883
+935,Marion,Maryetta,5m,Child,,No,CF,14,4,12,1/1/1888,1888,2/20/1888,1888
+936,Mayan,Maurice,14y,Child,,No,CF,14,4,12,1/1/1872,1872,11/2/1886,1886
+937,Rau,Infant,Stillborn,Child,,No,CF,14,4,13,9/3/1895,1895,9/3/1895,1895
+938,Walters,James,1y,Child,,No,CF,14,4,13,1/1/1885,1885,11/21/1886,1886
+939,Quinn,Annie,12w,Child,,No,CF,14,4,14,2/11/1888,1888,5/12/1888,1888
+940,Quinn,Mary,1y,Child,,No,CF,14,4,14,1/1/1885,1885,6/19/1886,1886
+941,Canavan,James N,2y,Child,,No,CF,14,4,16,1/1/1885,1885,2/10/1887,1887
+942,McCoy ,James,4m,Child,,No,CF,14,5,1,1/1/1885,1885,2/15/1885,1885
+943,Lynch,James,3y,Child,,No,CF,14,5,2,1/1/1883,1883,12/28/1886,1886
+944,Lynch,Thomas T,9m,Child,,No,CF,14,5,2,1/1/1902,1902,1/13/1903,1903
+945,Lynch,James,1m,Child,,No,CF,14,5,3,1/1/1889,1889,3/1/1889,1889
+946,Lynch,Mable,1y,Child,,No,CF,14,5,3,1/1/1886,1886,12/18/1887,1887
+947,Lynch,Mary E.,3y,Child,,No,CF,14,5,3,1/1/1882,1882,10/11/1885,1885
+948,Lynch,Owen,4y,Child,,No,CF,14,5,3,1/1/1896,1896,1/11/1900,1900
+949,Dunn,Charles J.,8m,Child,,No,CF,14,5,6,4/1/1885,1885,12/30/1885,1885
+950,Leingart,Charles,5y,Child,,No,CF,14,5,6,1/1/1882,1882,5/20/1887,1887
+951,Weingart,Charles,,,,No,CF,14,5,6,10/9/1882,1882,5/20/1887,1887
+952,Healey ,Ellen,1y,Child,,No,CF,14,5,7,1/1/1880,1880,7/19/1881,1881
+953,Healey ,Francis,5y,Child,,No,CF,14,5,7,1/1/1876,1876,7/3/1881,1881
+954,Kelley,Infant,Stillborn,Child,,No,CF,14,5,7,5/25/1895,1895,5/25/1895,1895
+955,Boyle,Allen,9m,Child,,No,CF,14,5,8,1/1/1887,1887,9/16/1887,1887
+956,Doyle,Mary,3m,Child,,No,CF,14,5,8,1/1/1886,1886,3/29/1886,1886
+957,McCarthy ,Lillie,6m,Child,,No,CF,14,5,9,1/1/1886,1886,9/27/1886,1886
+958,Mulvany,A. F. E.,11m,Child,,No,CF,14,5,10,1/1/1885,1885,10/7/1886,1886
+959,Sullivan,Patrick,6m,Child,,No,CF,14,5,11,1/1/1887,1887,8/12/1887,1887
+960,Gibney,Mary Teresa,8d,Child,,No,CF,14,5,12,10/1/1886,1886,11/5/1886,1886
+961,Diamond ,John,2m,Child,,No,CF,14,5,13,10/1/1886,1886,12/20/1886,1886
+962,Demond,John,2y,Child,,No,CF,14,5,14,1/1/1885,1885,5/11/1887,1887
+963,McMurray,Infant,Stillborn,Child,,No,CF,14,5,15,8/8/1886,1886,8/8/1886,1886
+964,Larkin ,Joseph,1y,Child,,No,CF,14,5,16,1/1/1880,1880,3/16/1881,1881
+965,Riley,Infant,Stillborn,Child,,No,CF,14,6,1,3/9/1885,1885,3/9/1885,1885
+966,Boiland,J. A. ,2y,Child,,No,CF,14,6,2,1/1/1885,1885,2/14/1887,1887
+967,Goldner,Infant,Stillborn,Child,,No,CF,14,6,2,6/17/1894,1894,6/17/1894,1894
+968,Goldner,Levi,2w,Child,,No,CF,14,6,2,12/1/1895,1895,12/31/1895,1895
+969,Trainor,Lizzie,3y,Child,,No,CF,14,6,3,1/1/1882,1882,9/30/1885,1885
+970,McNerney,William,6m,Child,,No,CF,14,6,4,1/1/1885,1885,10/29/1885,1885
+971,Kavanaugh,James,10m,Child,,No,CF,14,6,6,1/1/1884,1884,11/9/1884,1884
+972,McHale,Ann,3m,Child,,No,CF,14,6,7,1/19/1886,1886,4/17/1886,1886
+973,McNerney,Patrick,46y,Adult,,No,CF,14,6,7,1/1/1849,1849,4/10/1895,1895
+974,Daugherty,Mamie,6y,Child,,No,CF,14,6,8,1/1/1881,1881,3/25/1887,1887
+975,Dougherty,Mamie,,,,No,CF,14,6,8,,0,9/28/1891,1891
+976,MaCarty,Annie,1w,Child,,No,CF,14,6,8,1/1/1881,1881,1/28/1881,1881
+977,McCarty,Katie,2y,Child,,No,CF,14,6,8,1/1/1879,1879,2/9/1881,1881
+978,Donoher,John,3y,Child,,No,CF,14,6,9,1/1/1883,1883,9/27/1886,1886
+979,Wolson,John,8d,Child,,No,CF,14,6,9,1/1/1890,1890,1/13/1890,1890
+980,Karney,Julia,1y,Child,,No,CF,14,6,10,1/1/1885,1885,9/27/1886,1886
+981,Ludke,Infant,Stillborn,Child,,No,CF,14,6,11,7/21/1890,1890,7/21/1890,1890
+982,Maxliter,Mary,,,,No,CF,14,6,11,4/11/1887,1887,1/0/1900,1900
+983,Endolph,Lizzie,4y,Child,,No,CF,14,6,13,1/1/1882,1882,12/18/1886,1886
+984,Bresnehan,Mary,8m,Child,,No,CF,14,6,15,8/16/1886,1886,5/1/1887,1887
+985,Noonan,Daniel,5y,Child,,No,CF,14,6,15,1/1/1881,1881,7/5/1886,1886
+986,Bolin,Celia,1y,Child,,No,CF,14,6,16,1/1/1880,1880,4/12/1881,1881
+987,Worten,John,1y,Child,,No,CF,14,6,16,1/1/1886,1886,2/5/1887,1887
+988,Harrington,Katie,,,,No,CF,14,6,17,1/1/1881,1881,,1900
+989,Holland,Patrick,23y,Adult,Irish,No,CF,15,1,7,1/1/1858,1858,8/13/1881,1881
+990,Candolfa,Charles,31y,Adult,,No,CF,15,1,10,1/1/1854,1854,7/5/1885,1885
+991,Harrington,William,26y,Adult,,No,CF,15,3,8,1/1/1855,1855,6/2/1881,1881
+992,Crowley,John,46y,Adult,,No,CF,15,3,11,1/1/1836,1836,10/29/1882,1882
+993,Eskelton,Hans,24y,Adult,,No,CF,15,4,14,1/1/1857,1857,2/25/1881,1881
+994,Kelley,Infant,Stillborn,Child,,No,CF,15,4,17,3/7/1890,1890,3/7/1890,1890
+995,Britton,John,36y,Adult,,No,CF,16,2,13,1/1/1847,1847,1/23/1883,1883
+996,Hamilton,Joseph,8m,Child,,No,CF,16,3,2,12/11/1886,1886,8/29/1887,1887
+997,Luce,Ellen,,,,No,CF,16,3,13,,0,12/25/1881,1881
+998,Hirkel,John,26y,Adult,,No,CF,16,4,10,1/1/1867,1867,7/3/1893,1893
+999,Bennett,W. H.,32y,Adult,,No,CF,16,4,14,1/1/1849,1849,12/20/1881,1881
+1000,Kennedy,John,35y,Adult,,No,CF,16,4,17,1/1/1845,1845,12/29/1880,1880
+1001,Winters ,Infant,Stillborn,Child,,No,CF,16,6,6,6/20/1902,1902,6/20/1902,1902
+1002,Bean,Charles,19y,Adult,,No,CF,17,2,9,1/1/1867,1867,8/6/1886,1886
+1003,Watkins,Mary,45y,Adult,,No,CF,17,3,12,1/1/1837,1837,12/20/1882,1882
+1004,Donnelly,John,33y,Adult,,No,CF,17,3,13,1/1/1851,1851,1/31/1884,1884
+1005,Swearengen,Addie,5m,Child,,No,CF,18,1,1,1/1/1882,1882,7/18/1882,1882
+1006,Swanson,Oscar,60y,Adult,,No,CF,18,1,7,1/1/1889,1889,2/27/1939,1939
+1007,Healey,Franklin,4m,Child,,No,CF,18,1,10,1/1/1887,1887,8/12/1887,1887
+1008,Unknown ,Man,,,,No,CF,18,1,11,,0,8/28/1970,1970
+1009,Narron,Infant ,11m,Child,,No,CF,18,1,15,1/1/1897,1897,11/24/1897,1897
+1010,Howson,Infant,Stillborn,Child,,No,CF,18,2,14,2/15/1882,1882,2/15/1882,1882
+1011,Revels,John,37y,Adult,,No,CF,18,3,10,1/1/1902,1902,10/5/1939,1939
+1012,Nelson,John,60y,Adult,,yes,CF,18,4,1,1/1/1875,1875,1/3/1935,1935
+1013,Flannery,Annie,7m,Child,,No,CF,18,4,9,2/1/1882,1882,8/14/1882,1882
+1014,Unknown,Man,,,,No,CF,18,4,10,,0,11/21/1958,1958
+1015,Beauman,Fredrika,2y,Child,,No,CF,18,5,5,1/1/1881,1881,3/3/1883,1883
+1016,Britton,Harry,3m,Child,,No,CF,18,5,12,3/1/1882,1882,5/15/1882,1882
+1017,Mohar ,Frank,67y,Adult,,No,CF,18,6,5,1/1/1871,1871,12/15/1938,1938
+1018,Anderson,Peter,70y,Adult,Irish,yes,CF,18,6,10,1/1/1868,1868,11/26/1938,1938
+1019,McCarthy ,Infant,Stillborn,Child,,No,CF,19,1,4,5/16/1886,1886,5/16/1886,1886
+1020,Mayfield,John,1y,Child,,No,CF,19,1,6,1/1/1896,1896,10/25/1897,1897
+1021,Carey,Joseph,72y ,Adult,Irish,yes,CF,19,1,7,1/1/1851,1851,2/28/1923,1923
+1022,Kennedy,Grace,4y,Child,,No,CF,19,1,9,1/1/1886,1886,3/4/1905,1905
+1023,Quinlan,Infant,Stillborn,Child,,No,CF,19,1,9,7/31/1886,1886,7/31/1886,1886
+1024,Carmish,Infant,Stillborn,Child,,No,CF,19,1,10,12/27/1889,1889,12/27/1889,1889
+1025,McNerney,Dora,4y,Child,,No,CF,19,1,11,1/1/1884,1884,1/22/1888,1888
+1026,Harrington,J. F.,3y,Child,,No,CF,19,1,13,1/1/1885,1885,1/5/1888,1888
+1027,Roceta,A. M.,2y,Child,,No,CF,19,1,16,1/1/1888,1888,7/14/1890,1890
+1028,Dalton,Leo Chester,1y,Child,,No,CF,19,1,17,11/18/1885,1885,4/24/1887,1887
+1029,Kennedy,Ellen,6y,Child,,No,CF,19,1,17,1/1/1882,1882,3/26/1888,1888
+1030,O'Neil,Michael,63y,Adult,,No,CF,19,2,1,1/1/1841,1841,7/25/1904,1904
+1031,Calray,Sarah,,,,No,CF,19,2,6,,0,5/10/1891,1891
+1032,Cleer,Infant ,Stillborn,Child,,No,CF,19,2,7,2/13/1887,1887,2/13/1887,1887
+1033,Mayfield,Mary,21d,Child,,No,CF,19,2,7,1/1/1890,1890,1/22/1890,1890
+1034,Eddy,Albert,10m,Child,,No,CF,19,2,8,1/1/1889,1889,8/23/1890,1890
+1035,Searl,Infant,Stillborn,Child,,No,CF,19,2,9,8/19/1887,1887,8/19/1887,1887
+1036,Erbel ,Annie,2m,Child,,No,CF,19,2,11,7/1/1888,1888,9/5/1888,1888
+1037,Delanto,Louisa,4m,Child,,No,CF,19,2,13,4/1/1888,1888,8/29/1888,1888
+1038,Toland,Annie,1d,Child,,yes,CF,19,2,14,12/17/1887,1887,12/18/1887,1887
+1039,O'Neil,O,,,,No,CF,19,2,15,,,,1900
+1040,Frosts ,Infant,Stillborn,Child,,No,CF,19,2,16,4/29/1887,1887,4/29/1887,1887
+1041,Gluick,Lewis,74y,Adult,,No,CF,19,3,1,1/1/1831,1831,4/5/1905,1905
+1042,Pulley,Thomas,51y,Adult,,No,CF,19,3,2,1/14/1854,1854,3/8/1905,1905
+1043,Conners,James,4m,Child,American,No,CF,19,3,10,7/20/1887,1887,10/9/1887,1887
+1044,Clooney,Mary,2m,Child,American,No,CF,19,3,11,2/1/1888,1888,4/15/1888,1888
+1045,Harrington,Daniel,1d,Child,,No,CF,19,3,13,2/14/1888,1888,2/15/1888,1888
+1046,Jolley,Sarah ,9m,Child,,No,CF,19,3,14,1/1/1887,1887,1/26/1888,1888
+1047,Beatty,Albert,27y,Adult,,No,CF,19,4,1,1/1/1878,1878,1/23/1905,1905
+1048,Baker,Charles,60y,Adult,,No,CF,19,4,2,1/1/1845,1845,2/14/1905,1905
+1049,McBride,Patrick,,,,No,CF,19,4,9,,,,1900
+1050,Flynn,Clara,3y,Child,,No,CF,19,4,11,1/1/1880,1880,4/14/1888,1888
+1051,Dolan,Millie,,,,No,CF,19,4,13,,0,2/26/1888,1888
+1052,Dolan,William John,8m,Child,,No,CF,19,4,13,6/24/1887,1887,2/26/1888,1888
+1053,Russo,Angel,1m,Child,,No,CF,19,4,14,1/1/1888,1888,2/27/1888,1888
+1054,Blenkin,Nicholas,1y,Child,,No,CF,19,4,17,1/1/1886,1886,5/7/1887,1887
+1055,Mouce,Infant,Stillborn,Child,,No,CF,19,5,5,5/10/1886,1886,5/10/1886,1886
+1056,Thompson,Infant,Stillborn,Child,,No,CF,19,5,8,7/15/1887,1887,7/15/1887,1887
+1057,McGingan,Ellen,3y,Child,,No,CF,19,5,10,1/1/1885,1885,4/30/1888,1888
+1058,Belynasak,John,11m,Child,,No,CF,19,5,13,1/1/1887,1887,4/10/1888,1888
+1059,Clem,John,10m,Child,,No,CF,19,5,14,5/1/1887,1887,3/20/1888,1888
+1060,Pofasch,Mary,4w,Child,,No,CF,19,5,15,1/1/1887,1887,8/15/1887,1887
+1061,Gamble,Edward,1y,Child,,No,CF,19,5,17,1/1/1886,1886,4/26/1887,1887
+1062,Bellisscak,Infant,Stillborn ,Child,,No,CF,19,6,6,6/27/1886,1886,6/27/1886,1886
+1063,Sullivan,Infant,Stillborn,Child,,No,CF,19,6,8,7/30/1887,1887,7/30/1887,1887
+1064,Byrne,Margaret,3m,Child,,No,CF,19,6,10,1/1/1888,1888,4/25/1888,1888
+1065,Mourey,C. F.,5y,Child,,No,CF,19,6,11,1/1/1883,1883,3/30/1888,1888
+1066,Simmons,Infant ,Stillborn,Child,,No,CF,19,6,11,9/23/1895,1895,9/23/1895,1895
+1067,Norton,Thomas,8y,Child,,No,CF,19,6,12,1/1/1880,1880,4/21/1888,1888
+1068,Norton,Christy,5y,Child,,No,CF,19,6,13,1/1/1883,1883,3/26/1888,1888
+1069,Delaney,Alfonso,3y,Child,American,No,CF,19,6,14,3/1/1885,1885,3/22/1888,1888
+1070,Doonan,Ernest,2w,Child,,No,CF,19,6,15,8/1/1887,1887,8/15/1887,1887
+1071,Tourville,George,2y,Child,,No,CF,19,6,16,1/1/1885,1885,4/29/1887,1887
+1072,Dalton,Lee,,,,No,CF,19,7,16,,0,5/20/1890,1890
+1073,Bannon,Thomas,40y,Adult,Irish,No,CF,20,1,1,1/1/1846,1846,5/31/1886,1886
+1074,McMahon,Mary E.,18y,Adult,,No,CF,20,1,2,1/1/1865,1865,4/30/1883,1883
+1075,O'Neal ,Dennis,27y,Adult,,No,CF,20,1,3,1/1/1860,1860,2/9/1887,1887
+1076,Pretti,Joseph,32y,Adult,,yes,CF,20,1,3,1/1/1854,1854,6/2/1886,1886
+1077,Prettie,Nichola,23y,Adult,,yes,CF,20,1,3,1/1/1843,1843,6/2/1886,1886
+1078,Marnilli,Bilodine,50y,Adult,,No,CF,20,1,4,1/1/1836,1836,7/23/1886,1886
+1079,Baker,William ,60y,Adult,,yes,CF,20,1,5,1/1/1848,1848,6/24/1908,1908
+1080,Balfi,John,28y,Adult,,No,CF,20,1,5,,0,8/23/1883,1883
+1081,Birmingham,Michael,40y,Adult,Irish,No,CF,20,1,5,1/1/1846,1846,12/7/1886,1886
+1082,Regan,Julia,1y,Child,,No,CF,20,1,5,3/19/1883,1883,6/28/1884,1884
+1083,Blenkin,N.,33y,Adult,,No,CF,20,1,6,1/1/1854,1854,6/23/1887,1887
+1084,Regan,Mary,1y,Child,,No,CF,20,1,6,1/1/1879,1879,8/27/1880,1880
+1085,Callaghan,Patrick,24y,Adult,,No,CF,20,1,7,1/1/1863,1863,6/27/1887,1887
+1086,Stokes,William,42y,Adult,,No,CF,20,1,8,1/1/1846,1846,12/4/1888,1888
+1087,Sullivan,Kittie,23y,Adult,,No,CF,20,1,8,1/1/1864,1864,1/8/1887,1887
+1088,Hennessey,Rose,25y,Adult,,No,CF,20,1,10,1/1/1862,1862,8/24/1887,1887
+1089,Bradley,Bridget,44y,Adult,,No,CF,20,1,11,1/1/1843,1843,9/27/1887,1887
+1090,O'Neal ,Julia,12y,Child,,No,CF,20,1,12,1/1/1875,1875,3/15/1887,1887
+1091,McMahon,Thomas,35y,Adult,,No,CF,20,1,14,1/1/1852,1852,9/16/1887,1887
+1092,Elliott,Margaret,1y,Child,,No,CF,20,1,15,1/1/1886,1886,5/21/1887,1887
+1093,Doran,Thomas,,,,No,CF,20,1,16,,0,4/24/1887,1887
+1094,Horan,Thomas,42y,Adult,American,No,CF,20,1,16,1/1/1845,1845,4/24/1887,1887
+1095,Garman ,Mike,52y,Adult,,No,CF,20,1,17,1/1/1835,1835,3/29/1887,1887
+1096,Massa,Pietor,40y,Adult,,No,CF,20,2,1,1/1/1846,1846,6/5/1885,1885
+1097,Castle,Alford,53y,Adult,,No,CF,20,2,2,1/1/1852,1852,7/25/1905,1905
+1098,Pretti,Louis,40y,Adult,,yes,CF,20,2,2,1/1/1846,1846,6/2/1886,1886
+1099,Villod,Henry,41y,Adult,,No,CF,20,2,3,1/1/1845,1845,7/10/1886,1886
+1100,Bartley,James,45y,Adult,,No,CF,20,2,4,1/1/1839,1839,11/11/1886,1886
+1101,Kambitch,John,32y,Adult,,No,CF,20,2,5,1/1/1854,1854,12/10/1886,1886
+1102,Little,Eliza,39y,Adult,,No,CF,20,2,6,1/1/1848,1848,6/19/1887,1887
+1103,Nolan,John,,,,No,CF,20,2,7,,0,6/26/1887,1887
+1104,Houghton,Sophia,55y,Adult,,No,CF,20,2,8,1/1/1832,1832,1/9/1887,1887
+1105,McCarty,Michael,45y,Adult,,No,CF,20,2,9,1/1/1847,1847,3/24/1892,1892
+1106,Sexton,Nellie,18y,Adult,,No,CF,20,2,9,1/1/1869,1869,1/13/1888,1888
+1107,Burk,Frank,28y,Adult,,No,CF,20,2,10,1/1/1859,1859,8/30/1887,1887
+1108,McGinley,Michael,25y,Adult,,No,CF,20,2,13,1/1/1880,1880,3/20/1887,1887
+1109,Sullivan,Michael,32y,Adult,,No,CF,20,2,14,1/1/1855,1855,10/23/1887,1887
+1110,Joy,Patrick,37y,Adult,Irish,No,CF,20,2,16,1/1/1850,1850,4/30/1887,1887
+1111,Kennary,M,27y,Adult,,No,CF,20,2,17,1/1/1860,1860,5/4/1887,1887
+1112,Dunne,Cornelius,38y,Adult,,No,CF,20,3,1,1/1/1848,1848,6/7/1886,1886
+1113,Harrington,Nellie,24y,Adult,,No,CF,20,3,2,1/1/1862,1862,6/19/1886,1886
+1114,Welch,J. R.,42y,Adult,,No,CF,20,3,3,1/1/1844,1844,7/26/1886,1886
+1115,Welsh ,Infant,Stillborn,Child,,No,CF,20,3,3,6/24/1884,1884,6/24/1884,1884
+1116,Cannon,Thomas,22y,Adult,,No,CF,20,3,4,1/1/1864,1864,11/7/1886,1886
+1117,McCarthy ,James,45y,Adult,,No,CF,20,3,5,1/1/1841,1841,12/29/1886,1886
+1118,Printz,Joseph,30y,Adult,,No,CF,20,3,6,1/1/1847,1847,6/18/1887,1887
+1119,Mannix,William,14y,Child,,No,CF,20,3,7,1/1/1873,1873,5/18/1887,1887
+1120,Lynch,Matthew,45y,Adult,,No,CF,20,3,8,1/1/1842,1842,1/25/1887,1887
+1121,Lynch,Thomas,16y,Child,,No,CF,20,3,8,1/1/1871,1871,5/8/1887,1887
+1122,Doyle,Harry,36y,Adult,,No,CF,20,3,10,1/1/1851,1851,7/28/1887,1887
+1123,Selacavich,Gabriel,,,,No,CF,20,3,12,,0,3/22/1887,1887
+1124,Selacavich,George,23y,Adult,,No,CF,20,3,12,1/1/1854,1854,3/18/1887,1887
+1125,Onaroto,Pasquele,35y,Adult,,No,CF,20,3,13,1/1/1852,1852,3/22/1887,1887
+1126,Muldown,John,41y,Adult,Canadian,No,CF,20,3,14,1/1/1846,1846,10/2/1887,1887
+1127,Griffin,John,56y,Adult,,No,CF,20,3,15,1/1/1831,1831,5/10/1887,1887
+1128,Hagerty,James,65y,Adult,,No,CF,20,4,1,1/1/1821,1821,6/9/1886,1886
+1129,Sullivan,D. P. O. ,45y,Adult,,No,CF,20,4,2,1/1/1842,1842,5/28/1887,1887
+1130,McKenna,Patrick,36y,Adult,,No,CF,20,4,3,1/1/1850,1850,7/5/1886,1886
+1131,Roach,Charles,34y,Adult,,No,CF,20,4,5,1/1/1852,1852,12/22/1886,1886
+1132,Blagovitzch,P.,30y,Adult,,No,CF,20,4,6,1/1/1857,1857,5/11/1887,1887
+1133,Karney,Pat,32y,Adult,,No,CF,20,4,7,1/1/1855,1855,5/12/1887,1887
+1134,Cagney,Maggie,24y,Adult,,No,CF,20,4,8,1/1/1863,1863,1/25/1887,1887
+1135,Farrell,George,46y,Adult,,No,CF,20,4,8,1/1/1841,1841,6/30/1887,1887
+1136,Fallon,Luke,40y,Adult,,No,CF,20,4,9,1/1/1847,1847,2/3/1887,1887
+1137,Gahack,Joseph,36y,Adult,,No,CF,20,4,10,1/1/1851,1851,7/28/1887,1887
+1138,Morris,Pat,28y,Adult,,No,CF,20,4,13,1/1/1849,1849,6/20/1887,1887
+1139,Sennett,Maggie,1y,Child,,No,CF,20,4,13,1/1/1886,1886,4/29/1887,1887
+1140,Mismas,Mary Missouri,24y,Adult,,No,CF,20,4,14,1/1/1863,1863,9/23/1887,1887
+1141,Reid,Thomas,55y,Adult,,yes,CF,20,4,15,1/1/1839,1839,6/20/1894,1894
+1142,Donovan,Infant,Stillborn,Child,,No,CF,20,4,16,4/28/1887,1887,4/28/1887,1887
+1143,Colbert,Mrs E,44y,Adult,,No,CF,20,4,17,1/1/1843,1843,5/1/1887,1887
+1144,Bouland,Infant,Stillborn,Child,,No,CF,20,5,2,1/20/1884,1884,1/20/1884,1884
+1145,Hanley,Honora,7m,Child,,No,CF,20,6,4,1/1/1883,1883,6/4/1884,1884
+1146,Mouce,Gertie,9m,Child,,No,CF,20,6,5,1/1/1883,1883,7/26/1884,1884
+1147,McBride,Mo,57y,Adult,,No,CF,21,1,1,1/1/1830,1830,11/5/1887,1887
+1148,Newgreen,Infant ,Stillborn,Child,,No,CF,21,1,1,9/12/1896,1896,9/12/1896,1896
+1149,Byrne,John,28y,Adult,,No,CF,21,1,2,1/1/1855,1855,4/16/1883,1883
+1150,Canada,James,32y,Adult,,No,CF,21,1,3,1/1/1851,1851,11/23/1887,1887
+1151,McGoldrick,Neil,26y,Adult,Irish,No,CF,21,1,4,1/1/1861,1861,12/16/1887,1887
+1152,Nun,Robert,54y,Adult,,No,CF,21,1,4,1/1/1834,1834,12/19/1888,1888
+1153,Benelli,Joseph,54y,Adult,Italian,No,CF,21,1,6,1/1/1831,1831,11/15/1885,1885
+1154,Benilla,Joseph,54y,Adult,,No,CF,21,1,6,1/1/1831,1831,11/15/1885,1885
+1155,McNamara,Pat,48y,Adult,,No,CF,21,1,7,1/1/1839,1839,12/10/1887,1887
+1156,Sullivan,Mike,36y,Adult,,No,CF,21,1,7,1/1/1852,1852,1/1/1888,1888
+1157,O'Neal ,Mary,31y,Adult,,No,CF,21,1,8,1/1/1857,1857,1/2/1888,1888
+1158,McCarthy ,Timothy,40y,Adult,,No,CF,21,1,10,1/1/1848,1848,1/27/1888,1888
+1159,Kehoe,Daniel,50y,Adult,,No,CF,21,1,12,1/1/1838,1838,2/4/1888,1888
+1160,Park,W. F.,65y,Adult,,No,CF,21,1,14,1/1/1818,1818,8/11/1883,1883
+1161,King ,James,40y,Adult,,No,CF,21,1,15,1/1/1837,1837,12/31/1887,1887
+1162,Graves,John,28y,Adult,,No,CF,21,1,16,1/1/1860,1860,2/23/1888,1888
+1163,Groves,John,28y,Adult,,No,CF,21,1,16,1/1/1860,1860,2/23/1888,1888
+1164,Knuston,L,30y,Adult,,No,CF,21,1,16,1/1/1859,1859,4/8/1889,1889
+1165,Lavelle,Patrick,36y,Adult,,No,CF,21,1,16,1/1/1854,1854,8/21/1890,1890
+1166,Magnar,Michael,33y,Adult,,No,CF,21,2,1,1/1/1854,1854,11/6/1887,1887
+1167,Byrne,Mabel,11y,Child,,No,CF,21,2,2,1/1/1872,1872,5/11/1883,1883
+1168,Kambicle,Steve,46y,Adult,,No,CF,21,2,3,1/1/1841,1841,12/4/1887,1887
+1169,Hoy,Benard,55y,Adult,Scottish,No,CF,21,2,4,1/1/1832,1832,12/14/1887,1887
+1170,Kennedy,Michael,28y,Adult,,No,CF,21,2,7,1/1/1859,1859,11/25/1887,1887
+1171,McCurla,Thomas,37y,Adult,,No,CF,21,2,7,1/1/1851,1851,1/6/1888,1888
+1172,Bradley,Annie,17y,Child,,No,CF,21,2,8,1/1/1871,1871,12/29/1888,1888
+1173,O'Neil,Pat,23y,Adult,,No,CF,21,2,9,1/1/1865,1865,1/16/1888,1888
+1174,Sullivan,James,40y,Adult,,No,CF,21,2,11,1/1/1848,1848,2/9/1888,1888
+1175,Hamrich,Helen,30y,Adult,,No,CF,21,2,12,1/1/1858,1858,2/18/1888,1888
+1176,Commings,Barney,35y,Adult,,No,CF,21,2,15,1/1/1855,1855,8/1/1890,1890
+1177,Maguire,Arthur,6m,Child,,No,CF,21,2,15,1/1/1887,1887,7/5/1887,1887
+1178,McKenney,Pat,38y,Adult,,No,CF,21,2,16,1/1/1850,1850,3/2/1888,1888
+1179,Bray,Michael,,,,No,CF,21,3,1,,0,11/9/1887,1887
+1180,Stephens,William,28y,Adult,,No,CF,21,3,3,1/1/1859,1859,12/21/1887,1887
+1181,Dunbar,John,50y,Adult,,No,CF,21,3,4,1/1/1837,1837,12/26/1887,1887
+1182,Lydon,Pat,50y,Adult,,No,CF,21,3,4,1/1/1837,1837,12/16/1887,1887
+1183,Lampre,Mrs R B,25y,Adult,,No,CF,21,3,7,1/1/1863,1863,1/17/1888,1888
+1184,Notti,Antonia,24y,Adult,,No,CF,21,3,8,1/1/1864,1864,1/17/1888,1888
+1185,Gregg,John,25y,Adult,,No,CF,21,3,11,1/1/1863,1863,2/10/1888,1888
+1186,Grigg,John,25y,Adult,,No,CF,21,3,11,1/1/1863,1863,2/10/1888,1888
+1187,Rogers,Joseph,34y,Adult,,No,CF,21,3,12,1/1/1854,1854,2/14/1888,1888
+1188,Anderson,Grace,50y,Adult,Irish,No,CF,21,3,15,1/1/1835,1835,5/4/1888,1888
+1189,Brandes,Charles,50y,Adult,,No,CF,21,3,15,1/1/1841,1841,1/22/1891,1891
+1190,Sennett,James,1y,Child,,No,CF,21,3,15,1/1/1886,1886,7/9/1887,1887
+1191,Raney,Michael,27y,Adult,Irish,No,CF,21,3,16,1/1/1861,1861,3/25/1888,1888
+1192,Andrews,Peter,46y,Adult,Irish ,No,CF,21,4,1,1/1/1841,1841,11/6/1887,1887
+1193,Warner ,Paul,70y,Adult,,No,CF,21,4,1,1/1/1823,1823,7/3/1893,1893
+1194,Sullivan,J. R.,30y,Adult,,No,CF,21,4,3,1/1/1853,1853,10/14/1883,1883
+1195,Dunn,Charles,58y,Adult,Irish,No,CF,21,4,4,1/1/1829,1829,12/17/1887,1887
+1196,Breath,J. W.,30y,Adult,,No,CF,21,4,7,1/1/1869,1869,6/7/1899,1899
+1197,Foley,John,31y,Adult,,No,CF,21,4,7,1/1/1852,1852,8/24/1883,1883
+1198,Anderson,Matthew,40y,Adult,Irish,No,CF,21,4,8,1/1/1848,1848,1/22/1888,1888
+1199,Cray,Letitia,50y,Adult,,No,CF,21,4,9,1/1/1846,1846,1/18/1896,1896
+1200,O'Donnell,John,32y,Adult,Irish,No,CF,21,4,10,1/1/1856,1856,2/15/1888,1888
+1201,Donahue ,John,60y,Adult,,No,CF,21,4,11,1/1/1829,1829,7/6/1889,1889
+1202,Canfield,Mrs D. N.,29y,Adult,,No,CF,21,4,12,1/1/1859,1859,4/5/1888,1888
+1203,Crowley,Edward,45y,Adult,Irish,No,CF,21,4,13,1/1/1844,1844,6/17/1889,1889
+1204,Kennedy,Samuel,40y,Adult,Irish,No,CF,21,4,16,1/1/1848,1848,3/27/1888,1888
+1205,Watkins,D. W.,9y,Child,,No,CF,21,4,17,1/1/1873,1873,3/5/1882,1882
+1206,Dickson,Thomas,21y,Adult,American,No,CF,22,1,1,1/1/1880,1880,9/30/1901,1901
+1207,Lynch,Thomas,11y,Child,,No,CF,22,1,2,1/1/1868,1868,10/1/1879,1879
+1208,Unknown,Boy,19y,Adult,,No,CF,22,1,5,1/1/1883,1883,7/12/1902,1902
+1209,Casagranda,Val,29y,Adult,,No,CF,22,1,6,1/1/1876,1876,2/17/1905,1905
+1210,Ditwiler,Henry,45y,Adult,,No,CF,22,1,9,1/1/1857,1857,12/23/1902,1902
+1211,Ryan,Patrick,60y,Adult,,No,CF,22,1,10,1/1/1844,1844,1/18/1904,1904
+1212,Oliner,F,,,,No,CF,22,1,15,,,,1900
+1213,Fahrendorf,Barney,65y,Adult,,No,CF,22,2,1,1/1/1836,1836,9/30/1901,1901
+1214,Leonard,Patrick,46y,Adult,,No,CF,22,2,2,1/1/1857,1857,6/24/1903,1903
+1215,Warner ,John,52y,Adult,,No,CF,22,2,5,1/1/1850,1850,9/22/1902,1902
+1216,Casagranda,Dora,28y,Adult,,No,CF,22,2,6,1/1/1877,1877,2/17/1905,1905
+1217,Emerson,Floyd,30y,Adult,,No,CF,22,2,9,1/1/1872,1872,12/23/1902,1902
+1218,Walter,Peter,71y,Adult,,No,CF,22,2,10,1/1/1883,1883,3/12/1904,1904
+1219,Hart,Joseph,36y,Adult,,No,CF,22,2,11,1/1/1851,1851,8/10/1887,1887
+1220,Papisch,Infant,Stillborn,Child,,No,CF,22,2,14,12/10/1889,1889,12/10/1889,1889
+1221,Stewart,Carrie,58y,Adult,,No,CF,22,3,1,1/1/1844,1844,7/26/1902,1902
+1222,Bell,John,52y,Adult,American,No,CF,22,3,5,3/1/1852,1852,12/10/1903,1903
+1223,Dreyer,Peter,48y,Adult,,No,CF,22,3,6,1/1/1855,1855,9/25/1903,1903
+1224,Unknown,Man,55y,Adult,,No,CF,22,3,9,1/1/1848,1848,2/10/1903,1903
+1225,Fay,Infant,Stillborn,Child,,No,CF,22,3,10,11/25/1908,1908,11/25/1908,1908
+1226,Herman,Charles,45y,Adult,,No,CF,22,4,1,1/1/1856,1856,11/15/1901,1901
+1227,Bradley,John,48y,Adult,,No,CF,22,4,2,1/1/1834,1834,3/14/1882,1882
+1228,Harrington,Margaret,55y,Adult,,No,CF,22,4,2,1/1/1847,1847,6/5/1902,1902
+1229,Abbott,William M,31y,Adult,American,No,CF,22,4,3,1/1/1851,1851,6/10/1882,1882
+1230,Tracy,Patrick,65y,Adult,,No,CF,22,4,5,1/1/1838,1838,11/30/1903,1903
+1231,Cooper,Ellis,46y,Adult,,No,CF,22,4,6,1/1/1859,1859,8/3/1905,1905
+1232,Hockmark,Edward,59y,Adult,,No,CF,22,4,9,1/1/1844,1844,7/11/1903,1903
+1233,Leach,Thomas,57y,Adult,,No,CF,22,4,10,1/1/1847,1847,4/16/1904,1904
+1234,McDonald,Alex,60y,Adult,,No,CF,23,1,2,1/1/1856,1856,12/5/1916,1916
+1235,Kurtz,Leonard,75y,Adult,,No,CF,23,1,3,1/1/1857,1857,2/28/1922,1922
+1236,Brady,Edward,25y,Adult,,No,CF,23,1,6,1/1/1862,1862,7/7/1887,1887
+1237,Quanitance,William,69y,Adult,American,No,CF,23,1,9,1/1/1854,1854,9/13/1924,1924
+1238,Owens ,James,,,,No,CF,23,1,13,,,,1900
+1239,Mitchell,James,56y,Adult,,yes,CF,23,2,2,1/1/1869,1869,3/26/1925,1925
+1240,Sandem,John,,,,yes,CF,23,2,8,,,,1900
+1241,Bolitho,John,22y,Adult,,No,CF,23,2,9,1/1/1865,1865,10/4/1887,1887
+1242,Brennan,John,65y,Adult,,No,CF,23,4,8,1/1/1856,1856,5/26/1921,1921
+1243,Pengalese,John,60y,Adult,,No,CF,23,4,15,1/1/1855,1855,2/9/1915,1915
+1244,Sindelbach,Joseph,,,,No,CF,23,5,7,,,,1900
+1245,Boun,Joseph,42y,Adult,,No,CF,24,2,6,1/1/1850,1850,5/20/1892,1892
+1246,Sullivan,Rosa,40y,Adult,,No,CF,24,3,3,1/1/1852,1852,5/13/1892,1892
+1247,Johnson,John,48y,Adult,,No,CF,26,1,2,1/1/1841,1841,10/31/1889,1889
+1248,Byrnes ,Nellie,24y,Adult,,No,CF,26,2,11,1/1/1868,1868,7/19/1892,1892
+1249,Hoar,James,46y,Adult,,No,CF,26,3,9,1/1/1841,1841,1/31/1887,1887
+1250,McCarthy ,John,32y,Adult,,No,CF,26,4,4,1/1/1854,1854,11/6/1886,1886
+1251,Wester,F,,,,yes,CF,26,4,6,,,,1900
+1252,Kamery,Annie,7m,Child,,No,CF,26,4,7,1/1/1887,1887,8/27/1887,1887
+1253,McNee,John,56y,Adult,,No,CF,26,4,10,1/1/1861,1861,10/6/1916,1916
+1254,Greissier,Nicholas,28y,Adult,,No,CF,26,4,11,1/1/1860,1860,11/6/1888,1888
+1255,Muckey,Mrs M,39y,Adult,,No,CF,26,4,17,1/1/1849,1849,4/22/1888,1888
+1256,Stoner,George,41y,Adult,,No,CF,27,1,1,1/1/1859,1859,12/26/1900,1900
+1257,Munson,John,65y,Adult,,No,CF,27,1,2,1/1/1835,1835,12/21/1900,1900
+1258,Fitzgerald,Peter,70y,Adult,Irish,No,CF,27,1,9,1/1/1834,1834,6/29/1904,1904
+1259,Cook,John,48y,Adult,American,No,CF,27,1,10,1/1/1857,1857,5/11/1904,1904
+1260,Wise ,Lewis,50y,Adult,,No,CF,27,2,1,1/1/1850,1850,12/26/1900,1900
+1261,Farrell,James,53y,Adult,,No,CF,27,2,2,1/1/1848,1848,1/26/1901,1901
+1262,Hausbaumer,Lewis,64y,Adult,,No,CF,27,2,3,1/1/1837,1837,8/30/1901,1901
+1263,Hurbanner,Lewis,64y,Adult,,No,CF,27,2,3,1/1/1837,1837,8/30/1901,1901
+1264,Nichols,James,84y,Adult,,No,CF,27,2,9,1/1/1820,1820,8/4/1904,1904
+1265,Johnson,Samuel,57y,Adult,Swedish,No,CF,27,2,10,1/1/1846,1846,6/29/1904,1904
+1266,McCoy ,Alice,33y,Adult,,No,CF,27,2,12,1/1/1855,1855,11/5/1888,1888
+1267,Yilley,Phillip,40y,Adult,,No,CF,27,2,16,1/1/1859,1859,11/3/1899,1899
+1268,Cravens,E B,70y,Adult,,No,CF,27,3,1,1/1/1830,1830,9/18/1900,1900
+1269,Unknown,Man,55y,Adult,,No,CF,27,3,2,1/1/1846,1846,8/5/1901,1901
+1270,Keating ,Patrick,57y,Adult,,No,CF,27,3,3,1/1/1844,1844,6/7/1901,1901
+1271,Mitchell,George,64y,Adult,,No,CF,27,3,9,1/1/1840,1840,8/29/1904,1904
+1272,Scheer,Frederick,53y,Adult,,No,CF,27,3,10,1/1/1849,1849,5/24/1904,1904
+1273,Campbell,Mary,43y,Adult,Canadian,No,CF,27,3,12,1/1/1846,1846,3/5/1889,1889
+1274,Lynch,William,40y,Adult,,No,CF,27,4,1,1/1/1860,1860,3/7/1900,1900
+1275,Eyslop,William,39y,Adult,,No,CF,27,4,2,1/1/1862,1862,7/16/1901,1901
+1276,McNamara,Patrick,40y,Adult,,No,CF,27,4,3,1/1/1861,1861,7/26/1901,1901
+1277,Donnelly,John,44y,Adult,Irish,No,CF,27,4,9,1/1/1861,1861,5/4/1905,1905
+1278,Ttruett,Thomas,88y,Adult,,No,CF,27,4,10,1/1/1858,1858,5/14/1905,1905
+1279,Roach,Mollie,29y,Adult,,No,CF,27,4,17,1/1/1859,1859,6/11/1888,1888
+1280,Campbell,Hugh,45y,Adult,,No,CF,27,6,2,1/1/1862,1862,2/26/1907,1907
+1281,Winnie,Jeff,65y,Adult,,No,CF,28,1,1,1/1/1831,1831,3/26/1896,1896
+1282,Davis,Christopher,74y,Adult,American,No,CF,28,1,2,1/1/1822,1822,4/10/1896,1896
+1283,McMee,Martha,32y,Adult,,No,CF,28,1,3,1/1/1864,1864,5/21/1896,1896
+1284,Sebia ,Michael,42y,Adult,,No,CF,28,1,4,1/1/1855,1855,1/12/1897,1897
+1285,Dodds,James,60y,Adult,Canadian,No,CF,28,1,5,1/1/1837,1837,3/10/1897,1897
+1286,Dailey,James,60y,Adult,,No,CF,28,1,6,1/1/1838,1838,4/7/1898,1898
+1287,Daniels,Silas,35y,Adult,,No,CF,28,1,7,1/1/1863,1863,5/14/1898,1898
+1288,McGlinn,Michael,61y,Adult,,No,CF,28,1,9,1/1/1859,1859,12/15/1900,1900
+1289,Curcio,M. B.,3m,Child,,No,CF,28,1,11,1/1/1888,1888,9/19/1888,1888
+1290,Curcio,Michael,35y,Adult,Italian,No,CF,28,1,11,1/1/1853,1853,6/22/1888,1888
+1291,Noland,Thomas,50y,Adult,,No,CF,28,1,11,1/1/1849,1849,9/6/1899,1899
+1292,Connor,William,36y,Adult,,No,CF,28,1,12,1/1/1852,1852,5/24/1888,1888
+1293,Regan,John,50y,Adult,,No,CF,28,1,12,1/1/1846,1846,6/29/1896,1896
+1294,Sullivan,Timothy,40y,Adult,,No,CF,28,1,16,1/1/1848,1848,4/23/1888,1888
+1295,Richards,Thomas,40y,Adult,,No,CF,28,2,1,1/1/1856,1856,3/26/1896,1896
+1296,Wislander ,Charles,30y,Adult,,No,CF,28,2,3,1/1/1866,1866,5/23/1896,1896
+1297,Fagan,Peter,45y,Adult,Irish,No,CF,28,2,4,1/1/1852,1852,1/12/1897,1897
+1298,Moody,John,37y,Adult,,No,CF,28,2,5,1/1/1860,1860,3/15/1897,1897
+1299,Turney,Clarence,52y,Adult,,No,CF,28,2,6,1/1/1846,1846,8/1/1898,1898
+1300,Cowan,R. H.,65y,Adult,American,No,CF,28,2,7,1/1/1833,1833,9/30/1898,1898
+1301,Moore,John,50y,Adult,,No,CF,28,2,8,1/1/1848,1848,8/31/1898,1898
+1302,Kettening,Charles,55y,Adult,,No,CF,28,2,9,1/1/1846,1846,8/5/1901,1901
+1303,Gilfoy,James,62y,Adult,,No,CF,28,2,10,1/1/1838,1838,10/24/1900,1900
+1304,Deadwater,Leon,30y,Adult,,No,CF,28,2,11,1/1/1859,1859,7/6/1889,1889
+1305,Hall ,W. L.,51y,Adult,,No,CF,28,2,11,1/1/1848,1848,11/13/1899,1899
+1306,Mooring ,John,70y,Adult,,No,CF,28,2,12,1/1/1829,1829,8/8/1899,1899
+1307,Farley,Edward,40y,Adult,,No,CF,28,2,13,1/1/1848,1848,8/12/1888,1888
+1308,Loftus,John,45y,Adult,,No,CF,28,2,15,1/1/1843,1843,5/25/1888,1888
+1309,Burns,Pat,56y,,,No,CF,28,2,16,,0,4/20/1888,1888
+1310,Mannix,Annie,36y,Adult,,No,CF,28,2,16,1/1/1863,1863,1/29/1889,1889
+1311,Errick,Martha,33y,Adult,,No,CF,28,3,3,1/1/1863,1863,5/23/1896,1896
+1312,Ervick,Martha,33y,Adult,,No,CF,28,3,3,1/1/1863,1863,5/23/1896,1896
+1313,Caddin,Peter,58y ,Adult,,No,CF,28,3,4,1/1/1839,1839,1/19/1897,1897
+1314,Bruner,W. H.,61y,Adult,,No,CF,28,3,5,1/1/1836,1836,4/14/1897,1897
+1315,Wright ,Thomas,35y,Adult,,No,CF,28,3,7,1/1/1863,1863,9/7/1898,1898
+1316,Crouthers,William,55y,Adult,,No,CF,28,3,9,1/1/1845,1845,10/4/1900,1900
+1317,Unknown,Man,30y,Adult,,No,CF,28,3,10,1/1/1870,1870,9/18/1900,1900
+1318,Higgins,Martin,65y,Adult,,No,CF,28,3,11,3/1/1840,1840,9/18/1900,1900
+1319,Smith,Alex,56y,Adult,,No,CF,28,3,12,1/1/1835,1835,5/21/1891,1891
+1320,Sullivan,Mrs H. W.,40y,Adult,,No,CF,28,3,15,1/1/1848,1848,6/7/1888,1888
+1321,Burns,Edward,40y,Adult,Irish,No,CF,28,3,16,1/1/1848,1848,4/16/1888,1888
+1322,Moss,Minnie,38y,Adult,,No,CF,28,4,2,1/1/1858,1858,5/16/1896,1896
+1323,Caseta,Gevela,69y,Adult,,No,CF,28,4,4,1/1/1828,1828,1/20/1897,1897
+1324,Tessler,Lucas,56y,Adult,,No,CF,28,4,5,1/1/1841,1841,9/24/1897,1897
+1325,Lyons,John,47y,Adult,,No,CF,28,4,6,1/1/1850,1850,9/24/1897,1897
+1326,Coon,Josh,66y,Adult,,No,CF,28,4,8,1/1/1833,1833,7/31/1899,1899
+1327,Wright ,Oliver,50y,Adult,,No,CF,28,4,10,1/1/1846,1846,3/26/1896,1896
+1328,Rose,Archer,55y,Adult,,No,CF,28,4,11,1/1/1844,1844,8/23/1899,1899
+1329,Dechl,John,38y,Adult,,No,CF,28,4,12,1/1/1853,1853,1/22/1891,1891
+1330,Coffey,Mary,32y,Adult,,No,CF,28,4,15,1/1/1857,1857,11/9/1889,1889
+1331,Emmery,George,9d,Child,,No,CF,28,5,4,7/9/1890,1890,7/18/1890,1890
+1332,Degan,Infant,Stillborn,Child,,No,CF,29,2,16,8/18/1890,1890,8/18/1890,1890
+1333,Brophy,Mary,50y ,Adult,Irish,No,CF,29,3,11,1/1/1840,1840,10/7/1890,1890
+1334,Stream,Ida,5m,Child,,No,CF,29,3,17,1/1/1886,1886,12/10/1886,1886
+1335,Scheer,Bessie,,,,No,CF,29,6,2,,0,6/2/1891,1891
+1336,Hanley,William,50y,Adult,,No,CF,30,1,4,1/1/1833,1833,9/10/1883,1883
+1337,Dumada,Katie,40y,Adult,,No,CF,30,1,6,1/1/1843,1843,10/30/1883,1883
+1338,Dumada,Michael,50y,Adult,,No,CF,30,1,6,1/1/1836,1836,2/18/1886,1886
+1339,Gillespie,James,63,Adult,,No,CF,,,,,0,12/16/1914,1914
+1340,Unknown,Mexican,,,,killed on railroad,Free,,,,,,1/1/1900,1900
