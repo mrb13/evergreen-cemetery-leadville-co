@@ -21,7 +21,7 @@ The following data sources serve as baselayers to the QGIS map & are stored in t
 - Base-Ortho.tif
 - Evergreen-Lots.geojson
 - Graves-multipoint.gpkg
-- Evergreen Cemetery - export 6.csv
+- Evergreen Cemetery - export 6.csv   
 
 ### QGIS Processing
 
