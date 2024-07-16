@@ -1,11 +1,11 @@
-# evergreen-cemetery-leadville-co
+ # evergreen-cemetery-leadville-co
 
 This repository is a companion to a map published/displayed in the several locations. The goal of this repository is to document the steps to recreate the online map. The source files are used to create a QGIS project file related to the Catholic Free section of Evergreen Cemetery in Leadville, CO.
 
 ## Map Development: QGIS
-Map development completed with QGIS version 3.34.1-Prizren
-Coordinate reference system:  WGS 84
-Spatial reference system: EPSG:4326
+- Map development completed with QGIS version 3.34.1-Prizren
+- Coordinate reference system:  WGS 84
+- Spatial reference system: EPSG:4326
 
 
 ### Data Sources
@@ -14,16 +14,17 @@ Spatial reference system: EPSG:4326
 The following data sources serve as baselayers to the QGIS map & are stored in the '01-sources' folder. Note, a more in-depth description of the data collection methods & processing are at the bottom of the page.
 
 - Base-Ortho.tif
-- Evergreen-Lots.geojson ->
+- Evergreen-Lots.geojson
 - Graves-multipoint.gpkg
 - Evergreen Cemetery - export 6.csv
 
 ### QGIS Processing
 
 #### Layer: Blocks & Lots
-    - Renamed layer "Evergreen-Lots" to "Blocks & Lots"
-    - Properties -> symbology -> fill in = #efe8bb
-    - Properties -> symbology -> stroke = #a19b71
+- Renamed layer "Evergreen-Lots" to "Blocks & Lots"
+- Properties -> symbology -> fill in = #efe8bb
+- Properties -> symbology -> stroke = #a19b71
+
 #### Layer: Graves
 - Renamed layer "Graves-multipoint" to "Graves"
 - Properties -> Symbology -> Categorized -> Value=age_category
@@ -48,11 +49,30 @@ The following data sources serve as baselayers to the QGIS map & are stored in t
 ### Exporting Instructions
 
 - Plug-in required qgis2web (version 3.21.0)  -> https://github.com/qgis2web/qgis2web
-- Layers and Groups
+- Tab: Layers and Groups
+	- Graves 
+		- Visible: YES
+		- Popups: YES
+			- Popup Fields. 
+				- Hidden: "fid" & "reference_id"
+				- All other fields: "Inline label - visible ith data"
+	- Blocks & Lots
+		- Visible: YES
+		- Popups: NO
+	- Base Map
+		- Visible: YES
+- Tab: Appearance
+	- Title: Upper left
+	- Layers list: Collapsed
+	- Extent: Fit to layers extent
 - Export as Leaflet.js
 
-### Updates after exporting -> index.html
+### Updates after exporting
 
+#### index.html
+Change the defatul to the following values: 
+
+**Absolute Position:** 
 ```html
         #map {
             position:absolute;
@@ -61,17 +81,18 @@ The following data sources serve as baselayers to the QGIS map & are stored in t
         }
 ```
 
+**Reference Links:** 
 ```html
 map.attributionControl.setPrefix('<a href="https://www.historycolorado.org/healy-house-museum-dexter-cabin" title="Click here for link to Healy House in Leadville, CO">Healy House</a> &middot; <a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
 ```
 
 ## Publishing/Hosting: GitHub Pages
-TBD
+- Source Code: https://github.com/mrb13/evergreen-cemetery-map
+- Displayed: https://mrb13.github.io/evergreen-cemetery-map
 
 ## Data Collection & Processing
 
 - Base Map - ortho
-    
     - Data captured on 25-June 2023 at Evergreen Cemetery in Leadville, CO.
     - 270 photos taken with a DJI Mavic 2 drone at 380ft
     - Processed in OpenDroneMap software & exported as orthomosaic photo
