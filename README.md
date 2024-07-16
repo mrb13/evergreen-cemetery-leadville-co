@@ -110,8 +110,8 @@ map.attributionControl.setPrefix('<a href="https://www.historycolorado.org/healy
         - Acquisition software: SW Maps
         - Capture device: Android smartphone
     - Coordinate/point data processed on QGIS mapping software by translating points into polygons. Next, polygons were sub-divided into grids of either 17x4 or 17x6 based on records supplied by:
-        - Professor Jim Walsh (mentioned above)
-        - Lake County Public Library (https://lakecountypubliclibrary.org/localhistory/cemeteryrecords)
+        - [Rocky Mountain Irish Roots Collective](https://www.rockymountainirishrootscollective.org)
+        - [Lake County Public Library](https://lakecountypubliclibrary.org/localhistory/cemeteryrecords)
     - Based on the above description, the position of burial lots in this dataset are derived from survey (not a licensed surveryor) & data processing on QGIS mapping software
 - Graves-multipoint.gpkg
     
@@ -135,7 +135,19 @@ map.attributionControl.setPrefix('<a href="https://www.historycolorado.org/healy
         | Other | Not enought information, missing DOB or DOD |
         
 
-### References
-
+## References
+### Project References
 - [Rocky Mountain Irish Roots Collective](https://www.rockymountainirishrootscollective.org)
 - [Lake County Public Library](https://lakecountypubliclibrary.org/localhistory/cemeteryrecords)
+- [Healy House in Leadville, CO](https://www.historycolorado.org/healy-house-museum-dexter-cabin)
+
+#### Hardware & Software
+- [c099-f9p-application-board](https://www.u-blox.com/en/product/c099-f9p-application-board)
+- [DJI Mavic 2 Pro](https://store.dji.com/product/mavic-2)
+- 
+#### Software
+- [SW Maps - GIS & Data Collector](https://play.google.com/store/apps/details?id=np.com.softwel.swmaps&hl=en_US)
+- [Open Drone Map](https://www.opendronemap.org/)
+- [QGIS](https://qgis.org/)
+- [QGIS Plugin: "qgis2web"](https://github.com/qgis2web/qgis2web)
+- [Felt](felt.com)
