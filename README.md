@@ -101,7 +101,7 @@ map.attributionControl.setPrefix('<a href="https://www.historycolorado.org/healy
     - Processed in OpenDroneMap software & exported as orthomosaic photo
 - Evergreen-Lots.geojson
     
-    - Evergreen Cemetery's Catholic Free (CF) section is comprised of blocks (sections) which are 17 graves long by 4-6 graves wide. Blocks with adult burials are 4 graves wide while blocks with child burials are 6 wie.
+    - Evergreen Cemetery's Catholic Free (CF) section is comprised of blocks (sections) which are 17 graves long by 4-6 graves wide. Blocks with adult burials are 4 graves wide while blocks with child burials are 6 wide.
     - As of June 2023, the CF section was cordoned off by students of Professor Jim Walsh of University of Colorado Denver (https://clas.ucdenver.edu/polisci/people/james-walsh). Block are approximatly rectangular and the corner of each block had a marking post.
     - The map creator & owner of this repository has amature survey equipment used for precise coordinate collection.
         - 2 C099-F9P application boards with a ZED-F9P GNSS receiver
