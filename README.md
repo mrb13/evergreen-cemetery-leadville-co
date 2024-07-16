@@ -144,7 +144,7 @@ map.attributionControl.setPrefix('<a href="https://www.historycolorado.org/healy
 #### Hardware & Software
 - [c099-f9p-application-board](https://www.u-blox.com/en/product/c099-f9p-application-board)
 - [DJI Mavic 2 Pro](https://store.dji.com/product/mavic-2)
-- 
+
 #### Software
 - [SW Maps - GIS & Data Collector](https://play.google.com/store/apps/details?id=np.com.softwel.swmaps&hl=en_US)
 - [Open Drone Map](https://www.opendronemap.org/)
