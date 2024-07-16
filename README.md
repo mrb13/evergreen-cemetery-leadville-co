@@ -1,8 +1,13 @@
  # evergreen-cemetery-leadville-co
 
-This repository is a companion to a map published/displayed in the several locations. The goal of this repository is to document the steps to recreate the online map. The source files are used to create a QGIS project file related to the Catholic Free section of Evergreen Cemetery in Leadville, CO.
+This repository is a companion to a map published/displayed in the several locations online. The goal of this repository is to document the steps to recreate the online map. The source files are used to create a QGIS project file related to the Catholic Free section of Evergreen Cemetery in Leadville, CO. 
 
-## Map Development: QGIS
+### Publishing/Hosting: GitHub Pages
+- Source Code: https://github.com/mrb13/evergreen-cemetery-map
+- Displayed: https://mrb13.github.io/evergreen-cemetery-map
+
+
+## Map Development 
 - Map development completed with QGIS version 3.34.1-Prizren
 - Coordinate reference system:  WGS 84
 - Spatial reference system: EPSG:4326
@@ -86,9 +91,7 @@ Change the defatul to the following values:
 map.attributionControl.setPrefix('<a href="https://www.historycolorado.org/healy-house-museum-dexter-cabin" title="Click here for link to Healy House in Leadville, CO">Healy House</a> &middot; <a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
 ```
 
-## Publishing/Hosting: GitHub Pages
-- Source Code: https://github.com/mrb13/evergreen-cemetery-map
-- Displayed: https://mrb13.github.io/evergreen-cemetery-map
+
 
 ## Data Collection & Processing
 
